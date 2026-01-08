@@ -1,0 +1,51 @@
+[
+  {
+    "word": "hello",
+    "translations": {
+      "es": ["hola", "buenos días"]
+    },
+    "pos": "interjection",
+    "topics": ["greetings", "common"]
+  },
+  {
+    "word": "goodbye",
+    "translations": {
+      "es": ["adiós", "hasta luego"]
+    },
+    "pos": "interjection",
+    "topics": ["greetings", "common"]
+  },
+  {
+    "word": "food",
+    "translations": {
+      "es": ["comida", "alimento"]
+    },
+    "pos": "noun",
+    "topics": ["foods", "common"]
+  },
+  {
+    "word": "water",
+    "translations": {
+      "es": ["agua"]
+    },
+    "pos": "noun",
+    "topics": ["foods", "common"]
+  },
+  {
+    "word": "travel",
+    "translations": {
+      "es": ["viajar", "viaje"]
+    },
+    "pos": "verb",
+    "topics": ["travel"]
+  },
+  {
+    "word": "game",
+    "translations": {
+      "es": ["juego", "partido"]
+    },
+    "pos": "noun",
+    "topics": ["games"]
+  }
+]
+

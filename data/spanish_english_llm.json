@@ -1,0 +1,11173 @@
+[
+  {
+    "es": "de",
+    "en": "of",
+    "pos": [
+      "preposition"
+    ],
+    "tags": [
+      "Location",
+      "Relationship"
+    ]
+  },
+  {
+    "es": "la",
+    "en": "the",
+    "pos": [
+      "article"
+    ],
+    "tags": [
+      "Reference",
+      "Grammar"
+    ]
+  },
+  {
+    "es": "que",
+    "en": "that",
+    "pos": [
+      "conjunction",
+      "pronoun"
+    ],
+    "tags": [
+      "Connection",
+      "Reference"
+    ]
+  },
+  {
+    "es": "el",
+    "en": "the",
+    "pos": [
+      "article"
+    ],
+    "tags": [
+      "Reference",
+      "Grammar"
+    ]
+  },
+  {
+    "es": "en",
+    "en": "in",
+    "pos": [
+      "preposition"
+    ],
+    "tags": [
+      "Location",
+      "Time"
+    ]
+  },
+  {
+    "es": "los",
+    "en": "the",
+    "pos": [
+      "article"
+    ],
+    "tags": [
+      "Reference",
+      "Grammar"
+    ]
+  },
+  {
+    "es": "no",
+    "en": "not",
+    "pos": [
+      "adverb"
+    ],
+    "tags": [
+      "Negation",
+      "Emphasis"
+    ]
+  },
+  {
+    "es": "un",
+    "en": "a",
+    "pos": [
+      "article"
+    ],
+    "tags": [
+      "Reference",
+      "Grammar"
+    ]
+  },
+  {
+    "es": "se",
+    "en": "oneself",
+    "pos": [
+      "pronoun"
+    ],
+    "tags": [
+      "Reference",
+      "Action"
+    ]
+  },
+  {
+    "es": "por",
+    "en": "for",
+    "pos": [
+      "preposition"
+    ],
+    "tags": [
+      "Purpose",
+      "Location"
+    ]
+  },
+  {
+    "es": "es",
+    "en": "is",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "State",
+      "Existence"
+    ]
+  },
+  {
+    "es": "del",
+    "en": "of the",
+    "pos": [
+      "preposition"
+    ],
+    "tags": [
+      "Location",
+      "Relationship"
+    ]
+  },
+  {
+    "es": "las",
+    "en": "the",
+    "pos": [
+      "article"
+    ],
+    "tags": [
+      "Reference",
+      "Grammar"
+    ]
+  },
+  {
+    "es": "con",
+    "en": "with",
+    "pos": [
+      "preposition"
+    ],
+    "tags": [
+      "Company",
+      "Instrument"
+    ]
+  },
+  {
+    "es": "una",
+    "en": "a",
+    "pos": [
+      "article"
+    ],
+    "tags": [
+      "Reference",
+      "Grammar"
+    ]
+  },
+  {
+    "es": "para",
+    "en": "for",
+    "pos": [
+      "preposition"
+    ],
+    "tags": [
+      "Purpose",
+      "Destination"
+    ]
+  },
+  {
+    "es": "lo",
+    "en": "it",
+    "pos": [
+      "pronoun"
+    ],
+    "tags": [
+      "Reference",
+      "Object"
+    ]
+  },
+  {
+    "es": "su",
+    "en": "his/her/its",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Possession",
+      "Reference"
+    ]
+  },
+  {
+    "es": "al",
+    "en": "to the",
+    "pos": [
+      "preposition"
+    ],
+    "tags": [
+      "Location",
+      "Movement"
+    ]
+  },
+  {
+    "es": "como",
+    "en": "like",
+    "pos": [
+      "conjunction",
+      "preposition"
+    ],
+    "tags": [
+      "Comparison",
+      "Manner"
+    ]
+  },
+  {
+    "es": "me",
+    "en": "myself",
+    "pos": [
+      "pronoun"
+    ],
+    "tags": [
+      "Person",
+      "Identity"
+    ]
+  },
+  {
+    "es": "más",
+    "en": "more",
+    "pos": [
+      "adverb",
+      "adjective"
+    ],
+    "tags": [
+      "Quantity",
+      "Comparison"
+    ]
+  },
+  {
+    "es": "si",
+    "en": "if",
+    "pos": [
+      "conjunction"
+    ],
+    "tags": [
+      "Condition",
+      "Logic"
+    ]
+  },
+  {
+    "es": "pero",
+    "en": "but",
+    "pos": [
+      "conjunction"
+    ],
+    "tags": [
+      "Contrast",
+      "Connection"
+    ]
+  },
+  {
+    "es": "te",
+    "en": "you",
+    "pos": [
+      "pronoun"
+    ],
+    "tags": [
+      "Person",
+      "Address"
+    ]
+  },
+  {
+    "es": "mi",
+    "en": "my",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Possession",
+      "Identity"
+    ]
+  },
+  {
+    "es": "le",
+    "en": "him/her",
+    "pos": [
+      "pronoun"
+    ],
+    "tags": [
+      "Person",
+      "Reference"
+    ]
+  },
+  {
+    "es": "este",
+    "en": "this",
+    "pos": [
+      "adjective",
+      "pronoun"
+    ],
+    "tags": [
+      "Proximity",
+      "Reference"
+    ]
+  },
+  {
+    "es": "sus",
+    "en": "their",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Possession",
+      "Relation"
+    ]
+  },
+  {
+    "es": "esta",
+    "en": "this",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Proximity",
+      "Description"
+    ]
+  },
+  {
+    "es": "todo",
+    "en": "all",
+    "pos": [
+      "adjective",
+      "pronoun"
+    ],
+    "tags": [
+      "Quantity",
+      "Inclusion"
+    ]
+  },
+  {
+    "es": "ya",
+    "en": "already",
+    "pos": [
+      "adverb"
+    ],
+    "tags": [
+      "Time",
+      "Completion"
+    ]
+  },
+  {
+    "es": "ha",
+    "en": "has",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Possession"
+    ]
+  },
+  {
+    "es": "cuando",
+    "en": "when",
+    "pos": [
+      "conjunction"
+    ],
+    "tags": [
+      "Time",
+      "Condition"
+    ]
+  },
+  {
+    "es": "yo",
+    "en": "I",
+    "pos": [
+      "pronoun"
+    ],
+    "tags": [
+      "Person",
+      "Identity"
+    ]
+  },
+  {
+    "es": "ser",
+    "en": "to be",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Existence",
+      "State"
+    ]
+  },
+  {
+    "es": "son",
+    "en": "they are",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Existence",
+      "Relation"
+    ]
+  },
+  {
+    "es": "sin",
+    "en": "without",
+    "pos": [
+      "preposition"
+    ],
+    "tags": [
+      "Negation",
+      "Relation"
+    ]
+  },
+  {
+    "es": "hay",
+    "en": "there is",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Existence",
+      "Presence"
+    ]
+  },
+  {
+    "es": "está",
+    "en": "is",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Existence",
+      "State"
+    ]
+  },
+  {
+    "es": "fue",
+    "en": "was",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Time"
+    ]
+  },
+  {
+    "es": "tu",
+    "en": "your",
+    "pos": [
+      "adjective",
+      "pronoun"
+    ],
+    "tags": [
+      "Possession",
+      "Relationship"
+    ]
+  },
+  {
+    "es": "muy",
+    "en": "very",
+    "pos": [
+      "adverb"
+    ],
+    "tags": [
+      "Intensity",
+      "Degree"
+    ]
+  },
+  {
+    "es": "sobre",
+    "en": "about",
+    "pos": [
+      "preposition"
+    ],
+    "tags": [
+      "Location",
+      "Topic"
+    ]
+  },
+  {
+    "es": "también",
+    "en": "also",
+    "pos": [
+      "adverb"
+    ],
+    "tags": [
+      "Addition",
+      "Inclusion"
+    ]
+  },
+  {
+    "es": "todos",
+    "en": "all",
+    "pos": [
+      "adjective",
+      "pronoun"
+    ],
+    "tags": [
+      "Quantity",
+      "Inclusion"
+    ]
+  },
+  {
+    "es": "eso",
+    "en": "that",
+    "pos": [
+      "pronoun"
+    ],
+    "tags": [
+      "Reference",
+      "Demonstration"
+    ]
+  },
+  {
+    "es": "tiene",
+    "en": "has",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Possession",
+      "Action"
+    ]
+  },
+  {
+    "es": "nos",
+    "en": "us",
+    "pos": [
+      "pronoun"
+    ],
+    "tags": [
+      "Relationship",
+      "Inclusion"
+    ]
+  },
+  {
+    "es": "porque",
+    "en": "because",
+    "pos": [
+      "conjunction"
+    ],
+    "tags": [
+      "Reason",
+      "Explanation"
+    ]
+  },
+  {
+    "es": "qué",
+    "en": "what",
+    "pos": [
+      "pronoun",
+      "interjection"
+    ],
+    "tags": [
+      "Question",
+      "Inquiry"
+    ]
+  },
+  {
+    "es": "así",
+    "en": "so",
+    "pos": [
+      "adverb"
+    ],
+    "tags": [
+      "Manner",
+      "Degree"
+    ]
+  },
+  {
+    "es": "años",
+    "en": "years",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Time",
+      "Measurement"
+    ]
+  },
+  {
+    "es": "dos",
+    "en": "two",
+    "pos": [
+      "number"
+    ],
+    "tags": [
+      "Quantity",
+      "Numeration"
+    ]
+  },
+  {
+    "es": "bien",
+    "en": "well",
+    "pos": [
+      "adverb",
+      "adjective"
+    ],
+    "tags": [
+      "Quality",
+      "Degree"
+    ]
+  },
+  {
+    "es": "entre",
+    "en": "between",
+    "pos": [
+      "preposition"
+    ],
+    "tags": [
+      "Location",
+      "Relationship"
+    ]
+  },
+  {
+    "es": "puede",
+    "en": "can",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Ability",
+      "Possibility"
+    ]
+  },
+  {
+    "es": "desde",
+    "en": "since",
+    "pos": [
+      "preposition",
+      "conjunction"
+    ],
+    "tags": [
+      "Time",
+      "Origin"
+    ]
+  },
+  {
+    "es": "hasta",
+    "en": "until",
+    "pos": [
+      "preposition",
+      "conjunction"
+    ],
+    "tags": [
+      "Time",
+      "Limitation"
+    ]
+  },
+  {
+    "es": "hacer",
+    "en": "to do",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Creation"
+    ]
+  },
+  {
+    "es": "ahora",
+    "en": "now",
+    "pos": [
+      "adverb"
+    ],
+    "tags": [
+      "Time",
+      "Circumstance"
+    ]
+  },
+  {
+    "es": "era",
+    "en": "was",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Time",
+      "Action"
+    ]
+  },
+  {
+    "es": "esto",
+    "en": "this",
+    "pos": [
+      "pronoun",
+      "determiner"
+    ],
+    "tags": [
+      "Object",
+      "Reference"
+    ]
+  },
+  {
+    "es": "vez",
+    "en": "time",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Time",
+      "Quantity"
+    ]
+  },
+  {
+    "es": "hace",
+    "en": "makes",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Creation"
+    ]
+  },
+  {
+    "es": "nada",
+    "en": "nothing",
+    "pos": [
+      "pronoun",
+      "determiner"
+    ],
+    "tags": [
+      "Object",
+      "Negation"
+    ]
+  },
+  {
+    "es": "ni",
+    "en": "nor",
+    "pos": [
+      "conjunction"
+    ],
+    "tags": [
+      "Logic",
+      "Connection"
+    ]
+  },
+  {
+    "es": "donde",
+    "en": "where",
+    "pos": [
+      "adverb",
+      "pronoun"
+    ],
+    "tags": [
+      "Location",
+      "Question"
+    ]
+  },
+  {
+    "es": "parte",
+    "en": "part",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "tags": [
+      "Object",
+      "Division"
+    ]
+  },
+  {
+    "es": "solo",
+    "en": "only",
+    "pos": [
+      "adverb",
+      "determiner"
+    ],
+    "tags": [
+      "Quantity",
+      "Restriction"
+    ]
+  },
+  {
+    "es": "algo",
+    "en": "something",
+    "pos": [
+      "pronoun",
+      "determiner"
+    ],
+    "tags": [
+      "Object",
+      "Existence"
+    ]
+  },
+  {
+    "es": "tiempo",
+    "en": "time",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Time",
+      "Measurement"
+    ]
+  },
+  {
+    "es": "día",
+    "en": "day",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Time",
+      "Unit"
+    ]
+  },
+  {
+    "es": "uno",
+    "en": "one",
+    "pos": [
+      "determiner",
+      "pronoun"
+    ],
+    "tags": [
+      "Quantity",
+      "Number"
+    ]
+  },
+  {
+    "es": "mejor",
+    "en": "better",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "tags": [
+      "Quality",
+      "Comparison"
+    ]
+  },
+  {
+    "es": "mucho",
+    "en": "much",
+    "pos": [
+      "adverb",
+      "determiner"
+    ],
+    "tags": [
+      "Quantity",
+      "Intensity"
+    ]
+  },
+  {
+    "es": "tan",
+    "en": "so",
+    "pos": [
+      "adverb"
+    ],
+    "tags": [
+      "Degree",
+      "Emphasis"
+    ]
+  },
+  {
+    "es": "ver",
+    "en": "to see",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Perception"
+    ]
+  },
+  {
+    "es": "vida",
+    "en": "life",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Nature",
+      "Existence"
+    ]
+  },
+  {
+    "es": "ese",
+    "en": "that",
+    "pos": [
+      "pronoun",
+      "determiner"
+    ],
+    "tags": [
+      "Object",
+      "Reference"
+    ]
+  },
+  {
+    "es": "han",
+    "en": "have",
+    "pos": [
+      "auxiliary verb"
+    ],
+    "tags": [
+      "Action",
+      "Communication"
+    ]
+  },
+  {
+    "es": "mismo",
+    "en": "same",
+    "pos": [
+      "adjective",
+      "pronoun"
+    ],
+    "tags": [
+      "Description",
+      "Quantity"
+    ]
+  },
+  {
+    "es": "siempre",
+    "en": "always",
+    "pos": [
+      "adverb"
+    ],
+    "tags": [
+      "Time",
+      "Frequency"
+    ]
+  },
+  {
+    "es": "tengo",
+    "en": "I have",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Possession"
+    ]
+  },
+  {
+    "es": "cada",
+    "en": "each",
+    "pos": [
+      "determiner",
+      "pronoun"
+    ],
+    "tags": [
+      "Quantity",
+      "Description"
+    ]
+  },
+  {
+    "es": "después",
+    "en": "after",
+    "pos": [
+      "adverb",
+      "preposition"
+    ],
+    "tags": [
+      "Time",
+      "Sequence"
+    ]
+  },
+  {
+    "es": "están",
+    "en": "are",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "State"
+    ]
+  },
+  {
+    "es": "gente",
+    "en": "people",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Society",
+      "Human"
+    ]
+  },
+  {
+    "es": "esa",
+    "en": "that",
+    "pos": [
+      "determiner",
+      "pronoun"
+    ],
+    "tags": [
+      "Description",
+      "Reference"
+    ]
+  },
+  {
+    "es": "estado",
+    "en": "state",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Politics",
+      "Condition"
+    ]
+  },
+  {
+    "es": "estoy",
+    "en": "I am",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "State"
+    ]
+  },
+  {
+    "es": "mundo",
+    "en": "world",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Nature",
+      "Environment"
+    ]
+  },
+  {
+    "es": "va",
+    "en": "goes",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Movement"
+    ]
+  },
+  {
+    "es": "año",
+    "en": "year",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Time",
+      "Measurement"
+    ]
+  },
+  {
+    "es": "les",
+    "en": "them",
+    "pos": [
+      "pronoun"
+    ],
+    "tags": [
+      "Communication",
+      "Reference"
+    ]
+  },
+  {
+    "es": "mas",
+    "en": "more",
+    "pos": [
+      "adverb",
+      "determiner"
+    ],
+    "tags": [
+      "Quantity",
+      "Comparison"
+    ]
+  },
+  {
+    "es": "otro",
+    "en": "other",
+    "pos": [
+      "adjective",
+      "pronoun"
+    ],
+    "tags": [
+      "Description",
+      "Difference"
+    ]
+  },
+  {
+    "es": "otros",
+    "en": "others",
+    "pos": [
+      "pronoun"
+    ],
+    "tags": [
+      "Society",
+      "Reference"
+    ]
+  },
+  {
+    "es": "gracias",
+    "en": "thanks",
+    "pos": [
+      "interjection",
+      "noun"
+    ],
+    "tags": [
+      "Communication",
+      "Politeness"
+    ]
+  },
+  {
+    "es": "otra",
+    "en": "another",
+    "pos": [
+      "adjective",
+      "pronoun"
+    ],
+    "tags": [
+      "Description",
+      "Quantity"
+    ]
+  },
+  {
+    "es": "cosas",
+    "en": "things",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Objects",
+      "Possessions"
+    ]
+  },
+  {
+    "es": "gran",
+    "en": "great",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Attributes",
+      "Emotions"
+    ]
+  },
+  {
+    "es": "menos",
+    "en": "less",
+    "pos": [
+      "adverb",
+      "preposition"
+    ],
+    "tags": [
+      "Quantity",
+      "Comparison"
+    ]
+  },
+  {
+    "es": "nunca",
+    "en": "never",
+    "pos": [
+      "adverb"
+    ],
+    "tags": [
+      "Time",
+      "Frequency"
+    ]
+  },
+  {
+    "es": "personas",
+    "en": "people",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Humans",
+      "Society"
+    ]
+  },
+  {
+    "es": "tanto",
+    "en": "so much",
+    "pos": [
+      "adverb",
+      "determiner"
+    ],
+    "tags": [
+      "Quantity",
+      "Emphasis"
+    ]
+  },
+  {
+    "es": "antes",
+    "en": "before",
+    "pos": [
+      "adverb",
+      "conjunction"
+    ],
+    "tags": [
+      "Time",
+      "Sequence"
+    ]
+  },
+  {
+    "es": "poco",
+    "en": "little",
+    "pos": [
+      "adjective",
+      "determiner"
+    ],
+    "tags": [
+      "Quantity",
+      "Attributes"
+    ]
+  },
+  {
+    "es": "sea",
+    "en": "be",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Existence",
+      "Identity"
+    ]
+  },
+  {
+    "es": "había",
+    "en": "there was",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Existence",
+      "Past"
+    ]
+  },
+  {
+    "es": "tener",
+    "en": "to have",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Possession",
+      "Action"
+    ]
+  },
+  {
+    "es": "trabajo",
+    "en": "work",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "tags": [
+      "Occupation",
+      "Activity"
+    ]
+  },
+  {
+    "es": "durante",
+    "en": "during",
+    "pos": [
+      "preposition"
+    ],
+    "tags": [
+      "Time",
+      "Sequence"
+    ]
+  },
+  {
+    "es": "ellos",
+    "en": "they",
+    "pos": [
+      "pronoun"
+    ],
+    "tags": [
+      "Humans",
+      "Pronouns"
+    ]
+  },
+  {
+    "es": "lugar",
+    "en": "place",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Location",
+      "Environment"
+    ]
+  },
+  {
+    "es": "creo",
+    "en": "I believe",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Thought",
+      "Opinion"
+    ]
+  },
+  {
+    "es": "cómo",
+    "en": "how",
+    "pos": [
+      "adverb",
+      "interrogative"
+    ],
+    "tags": [
+      "Inquiry",
+      "Method"
+    ]
+  },
+  {
+    "es": "hecho",
+    "en": "fact",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Information",
+      "Reality"
+    ]
+  },
+  {
+    "es": "quiero",
+    "en": "I want",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Desire",
+      "Intention"
+    ]
+  },
+  {
+    "es": "sólo",
+    "en": "only",
+    "pos": [
+      "adverb"
+    ],
+    "tags": [
+      "Restriction",
+      "Limitation"
+    ]
+  },
+  {
+    "es": "aunque",
+    "en": "although",
+    "pos": [
+      "conjunction"
+    ],
+    "tags": [
+      "Logic",
+      "Condition"
+    ]
+  },
+  {
+    "es": "contra",
+    "en": "against",
+    "pos": [
+      "preposition"
+    ],
+    "tags": [
+      "Opposition",
+      "Direction"
+    ]
+  },
+  {
+    "es": "cuenta",
+    "en": "account",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Finance",
+      "Record"
+    ]
+  },
+  {
+    "es": "decir",
+    "en": "to say",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Communication",
+      "Action"
+    ]
+  },
+  {
+    "es": "gobierno",
+    "en": "government",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Politics",
+      "Institution"
+    ]
+  },
+  {
+    "es": "país",
+    "en": "country",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Geography",
+      "Location"
+    ]
+  },
+  {
+    "es": "soy",
+    "en": "I am",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Identity",
+      "State"
+    ]
+  },
+  {
+    "es": "todas",
+    "en": "all",
+    "pos": [
+      "determiner",
+      "pronoun"
+    ],
+    "tags": [
+      "Quantity",
+      "Inclusion"
+    ]
+  },
+  {
+    "es": "casa",
+    "en": "house",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Architecture",
+      "Shelter"
+    ]
+  },
+  {
+    "es": "estos",
+    "en": "these",
+    "pos": [
+      "determiner",
+      "pronoun"
+    ],
+    "tags": [
+      "Demonstration",
+      "Proximity"
+    ]
+  },
+  {
+    "es": "forma",
+    "en": "form",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Shape",
+      "Structure"
+    ]
+  },
+  {
+    "es": "he",
+    "en": "I have",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Possession",
+      "Action"
+    ]
+  },
+  {
+    "es": "nuevo",
+    "en": "new",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Quality",
+      "Novelty"
+    ]
+  },
+  {
+    "es": "sido",
+    "en": "been",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "State",
+      "Past"
+    ]
+  },
+  {
+    "es": "él",
+    "en": "he",
+    "pos": [
+      "pronoun"
+    ],
+    "tags": [
+      "Person",
+      "Identity"
+    ]
+  },
+  {
+    "es": "aquí",
+    "en": "here",
+    "pos": [
+      "adverb"
+    ],
+    "tags": [
+      "Location",
+      "Proximity"
+    ]
+  },
+  {
+    "es": "ella",
+    "en": "she",
+    "pos": [
+      "pronoun"
+    ],
+    "tags": [
+      "Person",
+      "Identity"
+    ]
+  },
+  {
+    "es": "estas",
+    "en": "these",
+    "pos": [
+      "determiner",
+      "pronoun"
+    ],
+    "tags": [
+      "Demonstration",
+      "Proximity"
+    ]
+  },
+  {
+    "es": "sí",
+    "en": "yes",
+    "pos": [
+      "adverb"
+    ],
+    "tags": [
+      "Affirmation",
+      "Agreement"
+    ]
+  },
+  {
+    "es": "estaba",
+    "en": "was",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "State",
+      "Past"
+    ]
+  },
+  {
+    "es": "estar",
+    "en": "to be",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "State",
+      "Existence"
+    ]
+  },
+  {
+    "es": "hoy",
+    "en": "today",
+    "pos": [
+      "adverb",
+      "noun"
+    ],
+    "tags": [
+      "Time",
+      "Schedule"
+    ]
+  },
+  {
+    "es": "tienen",
+    "en": "they have",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Possession",
+      "Action"
+    ]
+  },
+  {
+    "es": "alguien",
+    "en": "someone",
+    "pos": [
+      "pronoun"
+    ],
+    "tags": [
+      "Person",
+      "Identity"
+    ]
+  },
+  {
+    "es": "dice",
+    "en": "he/she/it says",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Communication",
+      "Action"
+    ]
+  },
+  {
+    "es": "quien",
+    "en": "who",
+    "pos": [
+      "pronoun"
+    ],
+    "tags": [
+      "Person",
+      "Inquiry"
+    ]
+  },
+  {
+    "es": "toda",
+    "en": "all",
+    "pos": [
+      "adjective",
+      "pronoun"
+    ],
+    "tags": [
+      "Quantity",
+      "Description"
+    ]
+  },
+  {
+    "es": "tres",
+    "en": "three",
+    "pos": [
+      "adjective",
+      "noun"
+    ],
+    "tags": [
+      "Number",
+      "Quantity"
+    ]
+  },
+  {
+    "es": "voy",
+    "en": "I go",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Movement",
+      "Action"
+    ]
+  },
+  {
+    "es": "caso",
+    "en": "case",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Situation",
+      "Circumstance"
+    ]
+  },
+  {
+    "es": "días",
+    "en": "days",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Time",
+      "Duration"
+    ]
+  },
+  {
+    "es": "momento",
+    "en": "moment",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Time",
+      "Instant"
+    ]
+  },
+  {
+    "es": "bueno",
+    "en": "good",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Quality",
+      "Evaluation"
+    ]
+  },
+  {
+    "es": "ciudad",
+    "en": "city",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Place",
+      "Location"
+    ]
+  },
+  {
+    "es": "mis",
+    "en": "my",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Possession",
+      "Relationship"
+    ]
+  },
+  {
+    "es": "nuestro",
+    "en": "our",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Possession",
+      "Relationship"
+    ]
+  },
+  {
+    "es": "luego",
+    "en": "then",
+    "pos": [
+      "adverb"
+    ],
+    "tags": [
+      "Time",
+      "Sequence"
+    ]
+  },
+  {
+    "es": "nacional",
+    "en": "national",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Origin",
+      "Identity"
+    ]
+  },
+  {
+    "es": "parece",
+    "en": "it seems",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Appearance",
+      "Perception"
+    ]
+  },
+  {
+    "es": "nuestra",
+    "en": "our",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Possession",
+      "Relationship"
+    ]
+  },
+  {
+    "es": "poder",
+    "en": "power",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Ability"
+    ]
+  },
+  {
+    "es": "pueden",
+    "en": "can",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Possibility"
+    ]
+  },
+  {
+    "es": "pues",
+    "en": "then",
+    "pos": [
+      "adverb",
+      "conjunction"
+    ],
+    "tags": [
+      "Time",
+      "Logic"
+    ]
+  },
+  {
+    "es": "verdad",
+    "en": "truth",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Concept",
+      "Reality"
+    ]
+  },
+  {
+    "es": "historia",
+    "en": "history",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Knowledge",
+      "Time"
+    ]
+  },
+  {
+    "es": "mientras",
+    "en": "while",
+    "pos": [
+      "conjunction",
+      "preposition"
+    ],
+    "tags": [
+      "Time",
+      "Condition"
+    ]
+  },
+  {
+    "es": "nadie",
+    "en": "nobody",
+    "pos": [
+      "pronoun"
+    ],
+    "tags": [
+      "Person",
+      "Negation"
+    ]
+  },
+  {
+    "es": "nueva",
+    "en": "new",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Quality",
+      "Time"
+    ]
+  },
+  {
+    "es": "otras",
+    "en": "other",
+    "pos": [
+      "adjective",
+      "pronoun"
+    ],
+    "tags": [
+      "Quantity",
+      "Difference"
+    ]
+  },
+  {
+    "es": "primera",
+    "en": "first",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "tags": [
+      "Order",
+      "Sequence"
+    ]
+  },
+  {
+    "es": "veces",
+    "en": "times",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Quantity",
+      "Frequency"
+    ]
+  },
+  {
+    "es": "muchos",
+    "en": "many",
+    "pos": [
+      "adjective",
+      "pronoun"
+    ],
+    "tags": [
+      "Quantity",
+      "Plurality"
+    ]
+  },
+  {
+    "es": "cual",
+    "en": "which",
+    "pos": [
+      "pronoun",
+      "adjective"
+    ],
+    "tags": [
+      "Question",
+      "Specification"
+    ]
+  },
+  {
+    "es": "debe",
+    "en": "must",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Necessity",
+      "Obligation"
+    ]
+  },
+  {
+    "es": "dijo",
+    "en": "said",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Communication",
+      "Action"
+    ]
+  },
+  {
+    "es": "entonces",
+    "en": "then",
+    "pos": [
+      "adverb",
+      "conjunction"
+    ],
+    "tags": [
+      "Time",
+      "Logic"
+    ]
+  },
+  {
+    "es": "ir",
+    "en": "go",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Movement"
+    ]
+  },
+  {
+    "es": "tipo",
+    "en": "type",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Category",
+      "Classification"
+    ]
+  },
+  {
+    "es": "algunos",
+    "en": "some",
+    "pos": [
+      "adjective",
+      "pronoun"
+    ],
+    "tags": [
+      "Quantity",
+      "Indetermination"
+    ]
+  },
+  {
+    "es": "general",
+    "en": "general",
+    "pos": [
+      "adjective",
+      "noun"
+    ],
+    "tags": [
+      "Category",
+      "Scope"
+    ]
+  },
+  {
+    "es": "mayor",
+    "en": "major",
+    "pos": [
+      "adjective",
+      "noun"
+    ],
+    "tags": [
+      "Attribute",
+      "Politics"
+    ]
+  },
+  {
+    "es": "tal",
+    "en": "such",
+    "pos": [
+      "adverb",
+      "pronoun"
+    ],
+    "tags": [
+      "Description",
+      "Quantity"
+    ]
+  },
+  {
+    "es": "además",
+    "en": "also",
+    "pos": [
+      "adverb"
+    ],
+    "tags": [
+      "Addition",
+      "Conjunction"
+    ]
+  },
+  {
+    "es": "mal",
+    "en": "bad",
+    "pos": [
+      "adverb",
+      "adjective"
+    ],
+    "tags": [
+      "Attribute",
+      "Value"
+    ]
+  },
+  {
+    "es": "muchas",
+    "en": "many",
+    "pos": [
+      "adjective",
+      "pronoun"
+    ],
+    "tags": [
+      "Quantity",
+      "Description"
+    ]
+  },
+  {
+    "es": "primer",
+    "en": "first",
+    "pos": [
+      "adjective",
+      "noun"
+    ],
+    "tags": [
+      "Attribute",
+      "Sequence"
+    ]
+  },
+  {
+    "es": "según",
+    "en": "according to",
+    "pos": [
+      "preposition"
+    ],
+    "tags": [
+      "Reference",
+      "Relation"
+    ]
+  },
+  {
+    "es": "acuerdo",
+    "en": "agreement",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Law",
+      "Social"
+    ]
+  },
+  {
+    "es": "cualquier",
+    "en": "any",
+    "pos": [
+      "adjective",
+      "pronoun"
+    ],
+    "tags": [
+      "Quantity",
+      "Indetermination"
+    ]
+  },
+  {
+    "es": "dios",
+    "en": "god",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Religion",
+      "Mythology"
+    ]
+  },
+  {
+    "es": "fueron",
+    "en": "were",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Tense"
+    ]
+  },
+  {
+    "es": "manera",
+    "en": "way",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Method",
+      "Style"
+    ]
+  },
+  {
+    "es": "nombre",
+    "en": "name",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Identification",
+      "Label"
+    ]
+  },
+  {
+    "es": "unos",
+    "en": "some",
+    "pos": [
+      "adjective",
+      "pronoun"
+    ],
+    "tags": [
+      "Quantity",
+      "Description"
+    ]
+  },
+  {
+    "es": "ley",
+    "en": "law",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Law",
+      "Regulation"
+    ]
+  },
+  {
+    "es": "medio",
+    "en": "medium",
+    "pos": [
+      "adjective",
+      "noun"
+    ],
+    "tags": [
+      "Attribute",
+      "Communication"
+    ]
+  },
+  {
+    "es": "partido",
+    "en": "party",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Politics",
+      "Social"
+    ]
+  },
+  {
+    "es": "bajo",
+    "en": "low",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "tags": [
+      "Attribute",
+      "Position"
+    ]
+  },
+  {
+    "es": "fuera",
+    "en": "outside",
+    "pos": [
+      "adverb",
+      "preposition"
+    ],
+    "tags": [
+      "Location",
+      "Direction"
+    ]
+  },
+  {
+    "es": "hacia",
+    "en": "toward",
+    "pos": [
+      "preposition"
+    ],
+    "tags": [
+      "Direction",
+      "Movement"
+    ]
+  },
+  {
+    "es": "sino",
+    "en": "but",
+    "pos": [
+      "conjunction"
+    ],
+    "tags": [
+      "Logic",
+      "Connection"
+    ]
+  },
+  {
+    "es": "da",
+    "en": "gives",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Transaction"
+    ]
+  },
+  {
+    "es": "grupo",
+    "en": "group",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Social",
+      "Organization"
+    ]
+  },
+  {
+    "es": "haber",
+    "en": "to have",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Possession"
+    ]
+  },
+  {
+    "es": "hombre",
+    "en": "man",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Person",
+      "Gender"
+    ]
+  },
+  {
+    "es": "puedo",
+    "en": "I can",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Ability"
+    ]
+  },
+  {
+    "es": "buena",
+    "en": "good",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Quality",
+      "Evaluation"
+    ]
+  },
+  {
+    "es": "mujer",
+    "en": "woman",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Person",
+      "Gender"
+    ]
+  },
+  {
+    "es": "persona",
+    "en": "person",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Social",
+      "Individual"
+    ]
+  },
+  {
+    "es": "será",
+    "en": "will be",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Time",
+      "Prediction"
+    ]
+  },
+  {
+    "es": "sistema",
+    "en": "system",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Technology",
+      "Organization"
+    ]
+  },
+  {
+    "es": "casi",
+    "en": "almost",
+    "pos": [
+      "adverb"
+    ],
+    "tags": [
+      "Quantity",
+      "Degree"
+    ]
+  },
+  {
+    "es": "fin",
+    "en": "end",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Time",
+      "Termination"
+    ]
+  },
+  {
+    "es": "hizo",
+    "en": "did",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Past"
+    ]
+  },
+  {
+    "es": "noche",
+    "en": "night",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Time",
+      "Nature"
+    ]
+  },
+  {
+    "es": "nosotros",
+    "en": "we",
+    "pos": [
+      "pronoun"
+    ],
+    "tags": [
+      "Person",
+      "Plural"
+    ]
+  },
+  {
+    "es": "pasado",
+    "en": "past",
+    "pos": [
+      "noun",
+      "adjective"
+    ],
+    "tags": [
+      "Time",
+      "History"
+    ]
+  },
+  {
+    "es": "presidente",
+    "en": "president",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Politics",
+      "Leadership"
+    ]
+  },
+  {
+    "es": "quiere",
+    "en": "wants",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Desire"
+    ]
+  },
+  {
+    "es": "tenemos",
+    "en": "we have",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Possession"
+    ]
+  },
+  {
+    "es": "tus",
+    "en": "your",
+    "pos": [
+      "adjective",
+      "pronoun"
+    ],
+    "tags": [
+      "Possession",
+      "Relationship"
+    ]
+  },
+  {
+    "es": "eres",
+    "en": "you are",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Identity",
+      "Action"
+    ]
+  },
+  {
+    "es": "méxico",
+    "en": "Mexico",
+    "pos": [
+      "proper noun"
+    ],
+    "tags": [
+      "Location",
+      "Geography"
+    ]
+  },
+  {
+    "es": "ahí",
+    "en": "there",
+    "pos": [
+      "adverb"
+    ],
+    "tags": [
+      "Location",
+      "Direction"
+    ]
+  },
+  {
+    "es": "cosa",
+    "en": "thing",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Object",
+      "Concept"
+    ]
+  },
+  {
+    "es": "dentro",
+    "en": "inside",
+    "pos": [
+      "adverb",
+      "preposition"
+    ],
+    "tags": [
+      "Location",
+      "Position"
+    ]
+  },
+  {
+    "es": "españa",
+    "en": "Spain",
+    "pos": [
+      "proper noun"
+    ],
+    "tags": [
+      "Location",
+      "Geography"
+    ]
+  },
+  {
+    "es": "estamos",
+    "en": "we are",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Identity",
+      "Action"
+    ]
+  },
+  {
+    "es": "familia",
+    "en": "family",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Relationship",
+      "Social"
+    ]
+  },
+  {
+    "es": "lado",
+    "en": "side",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Location",
+      "Position"
+    ]
+  },
+  {
+    "es": "aún",
+    "en": "still",
+    "pos": [
+      "adverb"
+    ],
+    "tags": [
+      "Time",
+      "Aspect"
+    ]
+  },
+  {
+    "es": "buen",
+    "en": "good",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Quality",
+      "Evaluation"
+    ]
+  },
+  {
+    "es": "podemos",
+    "en": "we can",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Ability",
+      "Action"
+    ]
+  },
+  {
+    "es": "misma",
+    "en": "same",
+    "pos": [
+      "adjective",
+      "pronoun"
+    ],
+    "tags": [
+      "Identity",
+      "Comparison"
+    ]
+  },
+  {
+    "es": "pueblo",
+    "en": "town",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Location",
+      "Geography"
+    ]
+  },
+  {
+    "es": "tenía",
+    "en": "had",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Possession",
+      "Action"
+    ]
+  },
+  {
+    "es": "esos",
+    "en": "those",
+    "pos": [
+      "adjective",
+      "pronoun"
+    ],
+    "tags": [
+      "Demonstration",
+      "Reference"
+    ]
+  },
+  {
+    "es": "final",
+    "en": "final",
+    "pos": [
+      "adjective",
+      "noun"
+    ],
+    "tags": [
+      "Time",
+      "Conclusion"
+    ]
+  },
+  {
+    "es": "mujeres",
+    "en": "women",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Demography",
+      "Social"
+    ]
+  },
+  {
+    "es": "política",
+    "en": "politics",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Government",
+      "Society"
+    ]
+  },
+  {
+    "es": "problema",
+    "en": "problem",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Challenge",
+      "Issue"
+    ]
+  },
+  {
+    "es": "punto",
+    "en": "point",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Location",
+      "Idea"
+    ]
+  },
+  {
+    "es": "agua",
+    "en": "water",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Nature",
+      "Substance"
+    ]
+  },
+  {
+    "es": "alguna",
+    "en": "some",
+    "pos": [
+      "determiner",
+      "pronoun"
+    ],
+    "tags": [
+      "Quantity",
+      "Uncertainty"
+    ]
+  },
+  {
+    "es": "equipo",
+    "en": "team",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Group",
+      "Collaboration"
+    ]
+  },
+  {
+    "es": "guerra",
+    "en": "war",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Conflict",
+      "Violence"
+    ]
+  },
+  {
+    "es": "saber",
+    "en": "to know",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Knowledge",
+      "Understanding"
+    ]
+  },
+  {
+    "es": "sé",
+    "en": "I know",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Confidence",
+      "Certainty"
+    ]
+  },
+  {
+    "es": "vamos",
+    "en": "let's go",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Movement"
+    ]
+  },
+  {
+    "es": "van",
+    "en": "they go",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Movement"
+    ]
+  },
+  {
+    "es": "ante",
+    "en": "before",
+    "pos": [
+      "preposition"
+    ],
+    "tags": [
+      "Time",
+      "Location"
+    ]
+  },
+  {
+    "es": "dar",
+    "en": "to give",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Transfer"
+    ]
+  },
+  {
+    "es": "embargo",
+    "en": "embargo",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Restriction",
+      "Trade"
+    ]
+  },
+  {
+    "es": "favor",
+    "en": "favor",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Kindness",
+      "Help"
+    ]
+  },
+  {
+    "es": "gusta",
+    "en": "to like",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Emotion",
+      "Preference"
+    ]
+  },
+  {
+    "es": "importante",
+    "en": "important",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Significance",
+      "Priority"
+    ]
+  },
+  {
+    "es": "información",
+    "en": "information",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Knowledge",
+      "Data"
+    ]
+  },
+  {
+    "es": "mañana",
+    "en": "tomorrow",
+    "pos": [
+      "noun",
+      "adverb"
+    ],
+    "tags": [
+      "Time",
+      "Future"
+    ]
+  },
+  {
+    "es": "pasa",
+    "en": "to happen",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Event",
+      "Occurrence"
+    ]
+  },
+  {
+    "es": "semana",
+    "en": "week",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Time",
+      "Period"
+    ]
+  },
+  {
+    "es": "tienes",
+    "en": "you have",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Possession"
+    ]
+  },
+  {
+    "es": "claro",
+    "en": "clear",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "tags": [
+      "Description",
+      "Clarity"
+    ]
+  },
+  {
+    "es": "dinero",
+    "en": "money",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Economy",
+      "Finance"
+    ]
+  },
+  {
+    "es": "san",
+    "en": "saint",
+    "pos": [
+      "adjective",
+      "noun"
+    ],
+    "tags": [
+      "Religion",
+      "Title"
+    ]
+  },
+  {
+    "es": "social",
+    "en": "social",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Society",
+      "Interaction"
+    ]
+  },
+  {
+    "es": "ejemplo",
+    "en": "example",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Education",
+      "Illustration"
+    ]
+  },
+  {
+    "es": "estados",
+    "en": "states",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Geography",
+      "Politics"
+    ]
+  },
+  {
+    "es": "horas",
+    "en": "hours",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Time",
+      "Schedule"
+    ]
+  },
+  {
+    "es": "igual",
+    "en": "equal",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "tags": [
+      "Comparison",
+      "Mathematics"
+    ]
+  },
+  {
+    "es": "millones",
+    "en": "millions",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Quantity",
+      "Finance"
+    ]
+  },
+  {
+    "es": "número",
+    "en": "number",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Mathematics",
+      "Quantity"
+    ]
+  },
+  {
+    "es": "ti",
+    "en": "you",
+    "pos": [
+      "pronoun"
+    ],
+    "tags": [
+      "Person",
+      "Pronoun"
+    ]
+  },
+  {
+    "es": "algunas",
+    "en": "some",
+    "pos": [
+      "determiner",
+      "pronoun"
+    ],
+    "tags": [
+      "Quantity",
+      "Indefiniteness"
+    ]
+  },
+  {
+    "es": "hablar",
+    "en": "to speak",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Communication"
+    ]
+  },
+  {
+    "es": "hora",
+    "en": "hour",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Time",
+      "Schedule"
+    ]
+  },
+  {
+    "es": "madre",
+    "en": "mother",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Family",
+      "Relationship"
+    ]
+  },
+  {
+    "es": "señor",
+    "en": "mister",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Title",
+      "Respect"
+    ]
+  },
+  {
+    "es": "siendo",
+    "en": "being",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "State",
+      "Existence"
+    ]
+  },
+  {
+    "es": "centro",
+    "en": "center",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Location",
+      "Geometry"
+    ]
+  },
+  {
+    "es": "derecho",
+    "en": "right",
+    "pos": [
+      "noun",
+      "adjective"
+    ],
+    "tags": [
+      "Law",
+      "Justice"
+    ]
+  },
+  {
+    "es": "falta",
+    "en": "lack",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "tags": [
+      "Concept",
+      "State"
+    ]
+  },
+  {
+    "es": "grandes",
+    "en": "great",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Quality",
+      "Description"
+    ]
+  },
+  {
+    "es": "haciendo",
+    "en": "doing",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Process"
+    ]
+  },
+  {
+    "es": "hombres",
+    "en": "men",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "People",
+      "Society"
+    ]
+  },
+  {
+    "es": "nuestros",
+    "en": "our",
+    "pos": [
+      "adjective",
+      "pronoun"
+    ],
+    "tags": [
+      "Possession",
+      "Relationship"
+    ]
+  },
+  {
+    "es": "puedes",
+    "en": "you can",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Ability",
+      "Permission"
+    ]
+  },
+  {
+    "es": "amigos",
+    "en": "friends",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "People",
+      "Relationship"
+    ]
+  },
+  {
+    "es": "buenos",
+    "en": "good",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Quality",
+      "Evaluation"
+    ]
+  },
+  {
+    "es": "cambio",
+    "en": "change",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Transformation"
+    ]
+  },
+  {
+    "es": "idea",
+    "en": "idea",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Concept",
+      "Thought"
+    ]
+  },
+  {
+    "es": "mierda",
+    "en": "shit",
+    "pos": [
+      "noun",
+      "interjection"
+    ],
+    "tags": [
+      "Expletive",
+      "Emotion"
+    ]
+  },
+  {
+    "es": "muerte",
+    "en": "death",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Event",
+      "Finality"
+    ]
+  },
+  {
+    "es": "problemas",
+    "en": "problems",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Challenge",
+      "Difficulty"
+    ]
+  },
+  {
+    "es": "tarde",
+    "en": "late",
+    "pos": [
+      "adverb",
+      "adjective"
+    ],
+    "tags": [
+      "Time",
+      "Schedule"
+    ]
+  },
+  {
+    "es": "tras",
+    "en": "after",
+    "pos": [
+      "preposition"
+    ],
+    "tags": [
+      "Location",
+      "Sequence"
+    ]
+  },
+  {
+    "es": "través",
+    "en": "through",
+    "pos": [
+      "preposition"
+    ],
+    "tags": [
+      "Location",
+      "Movement"
+    ]
+  },
+  {
+    "es": "tú",
+    "en": "you",
+    "pos": [
+      "pronoun"
+    ],
+    "tags": [
+      "Person",
+      "Address"
+    ]
+  },
+  {
+    "es": "meses",
+    "en": "months",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Time",
+      "Duration"
+    ]
+  },
+  {
+    "es": "podría",
+    "en": "could",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Ability",
+      "Possibility"
+    ]
+  },
+  {
+    "es": "realidad",
+    "en": "reality",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Concept",
+      "Existence"
+    ]
+  },
+  {
+    "es": "the",
+    "en": "the",
+    "pos": [
+      "article"
+    ],
+    "tags": [
+      "Grammar",
+      "Function"
+    ]
+  },
+  {
+    "es": "algún",
+    "en": "some",
+    "pos": [
+      "adjective",
+      "pronoun"
+    ],
+    "tags": [
+      "Quantity",
+      "Uncertainty"
+    ]
+  },
+  {
+    "es": "amor",
+    "en": "love",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Emotion",
+      "Relationship"
+    ]
+  },
+  {
+    "es": "dicho",
+    "en": "said",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Communication",
+      "Action"
+    ]
+  },
+  {
+    "es": "eran",
+    "en": "were",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Grammar",
+      "Tense"
+    ]
+  },
+  {
+    "es": "frente",
+    "en": "front",
+    "pos": [
+      "noun",
+      "preposition"
+    ],
+    "tags": [
+      "Location",
+      "Position"
+    ]
+  },
+  {
+    "es": "incluso",
+    "en": "even",
+    "pos": [
+      "adverb"
+    ],
+    "tags": [
+      "Degree",
+      "Inclusion"
+    ]
+  },
+  {
+    "es": "primero",
+    "en": "first",
+    "pos": [
+      "adverb",
+      "adjective"
+    ],
+    "tags": [
+      "Sequence",
+      "Priority"
+    ]
+  },
+  {
+    "es": "real",
+    "en": "real",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Quality",
+      "Authenticity"
+    ]
+  },
+  {
+    "es": "vas",
+    "en": "you go",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Movement"
+    ]
+  },
+  {
+    "es": "cuatro",
+    "en": "four",
+    "pos": [
+      "number"
+    ],
+    "tags": [
+      "Quantity",
+      "Math"
+    ]
+  },
+  {
+    "es": "desarrollo",
+    "en": "development",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Growth",
+      "Progress"
+    ]
+  },
+  {
+    "es": "hijo",
+    "en": "son",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Family",
+      "Relationship"
+    ]
+  },
+  {
+    "es": "sociedad",
+    "en": "society",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Community",
+      "Organization"
+    ]
+  },
+  {
+    "es": "tema",
+    "en": "topic",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Idea",
+      "Subject"
+    ]
+  },
+  {
+    "es": "varios",
+    "en": "several",
+    "pos": [
+      "adjective",
+      "pronoun"
+    ],
+    "tags": [
+      "Quantity",
+      "Variety"
+    ]
+  },
+  {
+    "es": "esas",
+    "en": "those",
+    "pos": [
+      "adjective",
+      "pronoun"
+    ],
+    "tags": [
+      "Reference",
+      "Distance"
+    ]
+  },
+  {
+    "es": "mí",
+    "en": "me",
+    "pos": [
+      "pronoun"
+    ],
+    "tags": [
+      "Person",
+      "Object"
+    ]
+  },
+  {
+    "es": "nivel",
+    "en": "level",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Quantity",
+      "Degree"
+    ]
+  },
+  {
+    "es": "niños",
+    "en": "children",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Age",
+      "Family"
+    ]
+  },
+  {
+    "es": "seguro",
+    "en": "insurance",
+    "pos": [
+      "noun",
+      "adjective"
+    ],
+    "tags": [
+      "Finance",
+      "Security"
+    ]
+  },
+  {
+    "es": "sería",
+    "en": "would be",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Time",
+      "Condition"
+    ]
+  },
+  {
+    "es": "argentina",
+    "en": "Argentina",
+    "pos": [
+      "proper noun"
+    ],
+    "tags": [
+      "Location",
+      "Country"
+    ]
+  },
+  {
+    "es": "hacen",
+    "en": "they do",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "People"
+    ]
+  },
+  {
+    "es": "hemos",
+    "en": "we have",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Possession"
+    ]
+  },
+  {
+    "es": "juego",
+    "en": "game",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Entertainment",
+      "Leisure"
+    ]
+  },
+  {
+    "es": "llegar",
+    "en": "to arrive",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Movement",
+      "Action"
+    ]
+  },
+  {
+    "es": "mano",
+    "en": "hand",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Body",
+      "Anatomy"
+    ]
+  },
+  {
+    "es": "paso",
+    "en": "step",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "tags": [
+      "Movement",
+      "Action"
+    ]
+  },
+  {
+    "es": "posible",
+    "en": "possible",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Condition",
+      "Uncertainty"
+    ]
+  },
+  {
+    "es": "proyecto",
+    "en": "project",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Work",
+      "Plan"
+    ]
+  },
+  {
+    "es": "sigue",
+    "en": "follows",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Sequence"
+    ]
+  },
+  {
+    "es": "somos",
+    "en": "we are",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Identity",
+      "Existence"
+    ]
+  },
+  {
+    "es": "unidos",
+    "en": "united",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Relationship",
+      "Unity"
+    ]
+  },
+  {
+    "es": "uso",
+    "en": "use",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Utility"
+    ]
+  },
+  {
+    "es": "artículo",
+    "en": "article",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Writing",
+      "Publication"
+    ]
+  },
+  {
+    "es": "cerca",
+    "en": "near",
+    "pos": [
+      "adverb",
+      "preposition"
+    ],
+    "tags": [
+      "Location",
+      "Proximity"
+    ]
+  },
+  {
+    "es": "cierto",
+    "en": "certain",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Certainty",
+      "Truth"
+    ]
+  },
+  {
+    "es": "grande",
+    "en": "big",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Size",
+      "Quantity"
+    ]
+  },
+  {
+    "es": "países",
+    "en": "countries",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Location",
+      "Geography"
+    ]
+  },
+  {
+    "es": "quién",
+    "en": "who",
+    "pos": [
+      "pronoun"
+    ],
+    "tags": [
+      "Person",
+      "Question"
+    ]
+  },
+  {
+    "es": "razón",
+    "en": "reason",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Idea",
+      "Logic"
+    ]
+  },
+  {
+    "es": "sabe",
+    "en": "knows",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Knowledge"
+    ]
+  },
+  {
+    "es": "todavía",
+    "en": "still",
+    "pos": [
+      "adverb"
+    ],
+    "tags": [
+      "Time",
+      "Status"
+    ]
+  },
+  {
+    "es": "amigo",
+    "en": "friend",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Person",
+      "Relationship"
+    ]
+  },
+  {
+    "es": "madrid",
+    "en": "madrid",
+    "pos": [
+      "proper noun"
+    ],
+    "tags": [
+      "Location",
+      "City"
+    ]
+  },
+  {
+    "es": "mayoría",
+    "en": "majority",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Quantity",
+      "Politics"
+    ]
+  },
+  {
+    "es": "padre",
+    "en": "father",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Person",
+      "Family"
+    ]
+  },
+  {
+    "es": "salir",
+    "en": "to leave",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Movement"
+    ]
+  },
+  {
+    "es": "seguridad",
+    "en": "security",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Concept",
+      "Protection"
+    ]
+  },
+  {
+    "es": "tierra",
+    "en": "earth",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Nature",
+      "Environment"
+    ]
+  },
+  {
+    "es": "visto",
+    "en": "seen",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Perception"
+    ]
+  },
+  {
+    "es": "único",
+    "en": "unique",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Quality",
+      "Description"
+    ]
+  },
+  {
+    "es": "cuerpo",
+    "en": "body",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Anatomy",
+      "Health"
+    ]
+  },
+  {
+    "es": "programa",
+    "en": "program",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Technology",
+      "Plan"
+    ]
+  },
+  {
+    "es": "segundo",
+    "en": "second",
+    "pos": [
+      "noun",
+      "adjective"
+    ],
+    "tags": [
+      "Time",
+      "Measurement"
+    ]
+  },
+  {
+    "es": "unas",
+    "en": "some",
+    "pos": [
+      "determiner"
+    ],
+    "tags": [
+      "Quantity",
+      "Uncountable"
+    ]
+  },
+  {
+    "es": "universidad",
+    "en": "university",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Education",
+      "Institution"
+    ]
+  },
+  {
+    "es": "último",
+    "en": "last",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Time",
+      "Sequence"
+    ]
+  },
+  {
+    "es": "cabeza",
+    "en": "head",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Anatomy",
+      "Body Part"
+    ]
+  },
+  {
+    "es": "foto",
+    "en": "photo",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Media",
+      "Technology"
+    ]
+  },
+  {
+    "es": "haya",
+    "en": "beech",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Nature",
+      "Environment"
+    ]
+  },
+  {
+    "es": "internacional",
+    "en": "international",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Politics",
+      "Globalization"
+    ]
+  },
+  {
+    "es": "mil",
+    "en": "thousand",
+    "pos": [
+      "noun",
+      "number"
+    ],
+    "tags": [
+      "Math",
+      "Quantity"
+    ]
+  },
+  {
+    "es": "palabras",
+    "en": "words",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Language",
+      "Communication"
+    ]
+  },
+  {
+    "es": "pasar",
+    "en": "to pass",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Movement"
+    ]
+  },
+  {
+    "es": "público",
+    "en": "public",
+    "pos": [
+      "adjective",
+      "noun"
+    ],
+    "tags": [
+      "Society",
+      "Community"
+    ]
+  },
+  {
+    "es": "seguir",
+    "en": "to follow",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Pursuit"
+    ]
+  },
+  {
+    "es": "servicio",
+    "en": "service",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Business",
+      "Assistance"
+    ]
+  },
+  {
+    "es": "situación",
+    "en": "situation",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Circumstance",
+      "Condition"
+    ]
+  },
+  {
+    "es": "ayuda",
+    "en": "help",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "tags": [
+      "Support",
+      "Assistance"
+    ]
+  },
+  {
+    "es": "juan",
+    "en": "John",
+    "pos": [
+      "proper noun"
+    ],
+    "tags": [
+      "Person",
+      "Name"
+    ]
+  },
+  {
+    "es": "libro",
+    "en": "book",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Education",
+      "Literature"
+    ]
+  },
+  {
+    "es": "siguiente",
+    "en": "next",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "tags": [
+      "Sequence",
+      "Order"
+    ]
+  },
+  {
+    "es": "veo",
+    "en": "I see",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Perception",
+      "Sight"
+    ]
+  },
+  {
+    "es": "datos",
+    "en": "data",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Information",
+      "Technology"
+    ]
+  },
+  {
+    "es": "dejar",
+    "en": "to leave",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Separation"
+    ]
+  },
+  {
+    "es": "educación",
+    "en": "education",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Learning",
+      "Development"
+    ]
+  },
+  {
+    "es": "proceso",
+    "en": "process",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "System",
+      "Methodology"
+    ]
+  },
+  {
+    "es": "sentido",
+    "en": "meaning",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Significance",
+      "Interpretation"
+    ]
+  },
+  {
+    "es": "cinco",
+    "en": "five",
+    "pos": [
+      "number"
+    ],
+    "tags": [
+      "Quantity",
+      "Math"
+    ]
+  },
+  {
+    "es": "clase",
+    "en": "class",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Education",
+      "Social"
+    ]
+  },
+  {
+    "es": "cuanto",
+    "en": "how much",
+    "pos": [
+      "interrogative pronoun",
+      "adverb"
+    ],
+    "tags": [
+      "Quantity",
+      "Question"
+    ]
+  },
+  {
+    "es": "derechos",
+    "en": "rights",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Law",
+      "Social"
+    ]
+  },
+  {
+    "es": "ello",
+    "en": "it",
+    "pos": [
+      "pronoun"
+    ],
+    "tags": [
+      "Language",
+      "Reference"
+    ]
+  },
+  {
+    "es": "estás",
+    "en": "you are",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "State"
+    ]
+  },
+  {
+    "es": "hijos",
+    "en": "children",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Family",
+      "Relationship"
+    ]
+  },
+  {
+    "es": "mes",
+    "en": "month",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Time",
+      "Calendar"
+    ]
+  },
+  {
+    "es": "usted",
+    "en": "you",
+    "pos": [
+      "pronoun"
+    ],
+    "tags": [
+      "Language",
+      "Politeness"
+    ]
+  },
+  {
+    "es": "largo",
+    "en": "long",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Description",
+      "Size"
+    ]
+  },
+  {
+    "es": "ningún",
+    "en": "no",
+    "pos": [
+      "determiner",
+      "pronoun"
+    ],
+    "tags": [
+      "Negation",
+      "Quantity"
+    ]
+  },
+  {
+    "es": "orden",
+    "en": "order",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Organization"
+    ]
+  },
+  {
+    "es": "puesto",
+    "en": "position",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Location",
+      "Status"
+    ]
+  },
+  {
+    "es": "quieres",
+    "en": "you want",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Desire"
+    ]
+  },
+  {
+    "es": "realmente",
+    "en": "really",
+    "pos": [
+      "adverb"
+    ],
+    "tags": [
+      "Emphasis",
+      "Truth"
+    ]
+  },
+  {
+    "es": "alto",
+    "en": "tall",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Description",
+      "Size"
+    ]
+  },
+  {
+    "es": "demás",
+    "en": "rest",
+    "pos": [
+      "noun",
+      "pronoun"
+    ],
+    "tags": [
+      "Quantity",
+      "Exclusion"
+    ]
+  },
+  {
+    "es": "dicen",
+    "en": "they say",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Communication"
+    ]
+  },
+  {
+    "es": "diferentes",
+    "en": "different",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Description",
+      "Comparison"
+    ]
+  },
+  {
+    "es": "español",
+    "en": "Spanish",
+    "pos": [
+      "adjective",
+      "noun"
+    ],
+    "tags": [
+      "Language",
+      "Nationality"
+    ]
+  },
+  {
+    "es": "junto",
+    "en": "together",
+    "pos": [
+      "adverb",
+      "preposition"
+    ],
+    "tags": [
+      "Location",
+      "Relationship"
+    ]
+  },
+  {
+    "es": "lista",
+    "en": "list",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Information",
+      "Organization"
+    ]
+  },
+  {
+    "es": "medios",
+    "en": "means",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Action",
+      "Communication"
+    ]
+  },
+  {
+    "es": "ninguna",
+    "en": "none",
+    "pos": [
+      "determiner",
+      "pronoun"
+    ],
+    "tags": [
+      "Quantity",
+      "Negation"
+    ]
+  },
+  {
+    "es": "personal",
+    "en": "personal",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Character",
+      "Relationship"
+    ]
+  },
+  {
+    "es": "total",
+    "en": "total",
+    "pos": [
+      "adjective",
+      "noun"
+    ],
+    "tags": [
+      "Quantity",
+      "Finance"
+    ]
+  },
+  {
+    "es": "trata",
+    "en": "treats",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Health"
+    ]
+  },
+  {
+    "es": "video",
+    "en": "video",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Media",
+      "Entertainment"
+    ]
+  },
+  {
+    "es": "viene",
+    "en": "comes",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Movement"
+    ]
+  },
+  {
+    "es": "web",
+    "en": "web",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Technology",
+      "Communication"
+    ]
+  },
+  {
+    "es": "base",
+    "en": "base",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Location",
+      "Structure"
+    ]
+  },
+  {
+    "es": "camino",
+    "en": "path",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Location",
+      "Movement"
+    ]
+  },
+  {
+    "es": "digo",
+    "en": "I say",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Communication"
+    ]
+  },
+  {
+    "es": "empresa",
+    "en": "company",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Business",
+      "Organization"
+    ]
+  },
+  {
+    "es": "especial",
+    "en": "special",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Character",
+      "Quality"
+    ]
+  },
+  {
+    "es": "hola",
+    "en": "hello",
+    "pos": [
+      "interjection"
+    ],
+    "tags": [
+      "Communication",
+      "Greeting"
+    ]
+  },
+  {
+    "es": "paz",
+    "en": "peace",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Emotion",
+      "State"
+    ]
+  },
+  {
+    "es": "policía",
+    "en": "police",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Authority",
+      "Safety"
+    ]
+  },
+  {
+    "es": "queda",
+    "en": "stays",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "State"
+    ]
+  },
+  {
+    "es": "salud",
+    "en": "health",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Wellness",
+      "Condition"
+    ]
+  },
+  {
+    "es": "sitio",
+    "en": "site",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Place",
+      "Location"
+    ]
+  },
+  {
+    "es": "tomar",
+    "en": "to take",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Consumption"
+    ]
+  },
+  {
+    "es": "tuvo",
+    "en": "had",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Possession",
+      "Past"
+    ]
+  },
+  {
+    "es": "zona",
+    "en": "zone",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Place",
+      "Division"
+    ]
+  },
+  {
+    "es": "calle",
+    "en": "street",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Place",
+      "Urban"
+    ]
+  },
+  {
+    "es": "cara",
+    "en": "face",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Body",
+      "Appearance"
+    ]
+  },
+  {
+    "es": "línea",
+    "en": "line",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Shape",
+      "Form"
+    ]
+  },
+  {
+    "es": "mundial",
+    "en": "world",
+    "pos": [
+      "adjective",
+      "noun"
+    ],
+    "tags": [
+      "Global",
+      "International"
+    ]
+  },
+  {
+    "es": "obra",
+    "en": "work",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Art",
+      "Creation"
+    ]
+  },
+  {
+    "es": "ojos",
+    "en": "eyes",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Body",
+      "Senses"
+    ]
+  },
+  {
+    "es": "os",
+    "en": "you",
+    "pos": [
+      "pronoun"
+    ],
+    "tags": [
+      "Person",
+      "Informal"
+    ]
+  },
+  {
+    "es": "pensar",
+    "en": "to think",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Cognition",
+      "Mental"
+    ]
+  },
+  {
+    "es": "servicios",
+    "en": "services",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Help",
+      "Assistance"
+    ]
+  },
+  {
+    "es": "sociales",
+    "en": "social",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Society",
+      "Community"
+    ]
+  },
+  {
+    "es": "allí",
+    "en": "there",
+    "pos": [
+      "adverb"
+    ],
+    "tags": [
+      "Place",
+      "Direction"
+    ]
+  },
+  {
+    "es": "atención",
+    "en": "attention",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Cognition",
+      "Focus"
+    ]
+  },
+  {
+    "es": "debería",
+    "en": "should",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Obligation",
+      "Necessity"
+    ]
+  },
+  {
+    "es": "escuela",
+    "en": "school",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Education",
+      "Institution"
+    ]
+  },
+  {
+    "es": "julio",
+    "en": "July",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Time",
+      "Month"
+    ]
+  },
+  {
+    "es": "pueda",
+    "en": "can",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Ability",
+      "Possibility"
+    ]
+  },
+  {
+    "es": "quieren",
+    "en": "want",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Emotion"
+    ]
+  },
+  {
+    "es": "respecto",
+    "en": "regard",
+    "pos": [
+      "noun",
+      "preposition"
+    ],
+    "tags": [
+      "Relation",
+      "Attitude"
+    ]
+  },
+  {
+    "es": "segunda",
+    "en": "second",
+    "pos": [
+      "adjective",
+      "noun"
+    ],
+    "tags": [
+      "Time",
+      "Order"
+    ]
+  },
+  {
+    "es": "siento",
+    "en": "feel",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Emotion",
+      "Sensation"
+    ]
+  },
+  {
+    "es": "ve",
+    "en": "see",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Sensation",
+      "Perception"
+    ]
+  },
+  {
+    "es": "vivir",
+    "en": "live",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Existence"
+    ]
+  },
+  {
+    "es": "capital",
+    "en": "capital",
+    "pos": [
+      "noun",
+      "adjective"
+    ],
+    "tags": [
+      "Economy",
+      "Politics"
+    ]
+  },
+  {
+    "es": "casos",
+    "en": "cases",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Law",
+      "Situation"
+    ]
+  },
+  {
+    "es": "etc",
+    "en": "etc",
+    "pos": [
+      "abbreviation"
+    ],
+    "tags": [
+      "Language",
+      "Convention"
+    ]
+  },
+  {
+    "es": "libre",
+    "en": "free",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "State",
+      "Freedom"
+    ]
+  },
+  {
+    "es": "luz",
+    "en": "light",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Nature",
+      "Energy"
+    ]
+  },
+  {
+    "es": "mejores",
+    "en": "best",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Quality",
+      "Comparison"
+    ]
+  },
+  {
+    "es": "población",
+    "en": "population",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Society",
+      "Demography"
+    ]
+  },
+  {
+    "es": "quienes",
+    "en": "who",
+    "pos": [
+      "pronoun"
+    ],
+    "tags": [
+      "Identity",
+      "Question"
+    ]
+  },
+  {
+    "es": "relación",
+    "en": "relation",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Connection",
+      "Interaction"
+    ]
+  },
+  {
+    "es": "sabes",
+    "en": "know",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Cognition",
+      "Awareness"
+    ]
+  },
+  {
+    "es": "suerte",
+    "en": "luck",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Chance",
+      "Fortune"
+    ]
+  },
+  {
+    "es": "varias",
+    "en": "several",
+    "pos": [
+      "adjective",
+      "determiner"
+    ],
+    "tags": [
+      "Quantity",
+      "Variety"
+    ]
+  },
+  {
+    "es": "bastante",
+    "en": "enough",
+    "pos": [
+      "adverb",
+      "determiner"
+    ],
+    "tags": [
+      "Quantity",
+      "Satisfaction"
+    ]
+  },
+  {
+    "es": "cultura",
+    "en": "culture",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Society",
+      "Heritage"
+    ]
+  },
+  {
+    "es": "debido",
+    "en": "due to",
+    "pos": [
+      "preposition"
+    ],
+    "tags": [
+      "Reason",
+      "Circumstance"
+    ]
+  },
+  {
+    "es": "difícil",
+    "en": "difficult",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Quality",
+      "Challenge"
+    ]
+  },
+  {
+    "es": "dio",
+    "en": "gave",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Transaction"
+    ]
+  },
+  {
+    "es": "estaban",
+    "en": "were",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "State",
+      "Condition"
+    ]
+  },
+  {
+    "es": "fotos",
+    "en": "photos",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Media",
+      "Memory"
+    ]
+  },
+  {
+    "es": "fuerte",
+    "en": "strong",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Quality",
+      "Intensity"
+    ]
+  },
+  {
+    "es": "fácil",
+    "en": "easy",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Quality",
+      "Simplicity"
+    ]
+  },
+  {
+    "es": "habla",
+    "en": "speaks",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Communication"
+    ]
+  },
+  {
+    "es": "miedo",
+    "en": "fear",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Emotion",
+      "Psychology"
+    ]
+  },
+  {
+    "es": "minutos",
+    "en": "minutes",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Time",
+      "Measurement"
+    ]
+  },
+  {
+    "es": "música",
+    "en": "music",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Art",
+      "Entertainment"
+    ]
+  },
+  {
+    "es": "poner",
+    "en": "to put",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Placement"
+    ]
+  },
+  {
+    "es": "pregunta",
+    "en": "question",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "tags": [
+      "Inquiry",
+      "Communication"
+    ]
+  },
+  {
+    "es": "rey",
+    "en": "king",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Royalty",
+      "Authority"
+    ]
+  },
+  {
+    "es": "vos",
+    "en": "you",
+    "pos": [
+      "pronoun"
+    ],
+    "tags": [
+      "Person",
+      "Address"
+    ]
+  },
+  {
+    "es": "apoyo",
+    "en": "support",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "tags": [
+      "Help",
+      "Assistance"
+    ]
+  },
+  {
+    "es": "dado",
+    "en": "given",
+    "pos": [
+      "verb",
+      "adjective"
+    ],
+    "tags": [
+      "Action",
+      "Condition"
+    ]
+  },
+  {
+    "es": "deja",
+    "en": "leaves",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Separation"
+    ]
+  },
+  {
+    "es": "demasiado",
+    "en": "too much",
+    "pos": [
+      "adverb"
+    ],
+    "tags": [
+      "Quantity",
+      "Excess"
+    ]
+  },
+  {
+    "es": "espero",
+    "en": "I hope",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Emotion",
+      "Expectation"
+    ]
+  },
+  {
+    "es": "fuerza",
+    "en": "force",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "tags": [
+      "Nature",
+      "Action"
+    ]
+  },
+  {
+    "es": "iba",
+    "en": "was going",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Movement"
+    ]
+  },
+  {
+    "es": "josé",
+    "en": "Joseph",
+    "pos": [
+      "proper noun"
+    ],
+    "tags": [
+      "Person",
+      "Name"
+    ]
+  },
+  {
+    "es": "manos",
+    "en": "hands",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Body",
+      "Part"
+    ]
+  },
+  {
+    "es": "mayo",
+    "en": "May",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Time",
+      "Date"
+    ]
+  },
+  {
+    "es": "mucha",
+    "en": "much",
+    "pos": [
+      "adverb",
+      "determiner"
+    ],
+    "tags": [
+      "Quantity",
+      "Description"
+    ]
+  },
+  {
+    "es": "oficial",
+    "en": "official",
+    "pos": [
+      "adjective",
+      "noun"
+    ],
+    "tags": [
+      "Status",
+      "Position"
+    ]
+  },
+  {
+    "es": "propio",
+    "en": "own",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Possession",
+      "Description"
+    ]
+  },
+  {
+    "es": "buenas",
+    "en": "good",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Quality",
+      "Description"
+    ]
+  },
+  {
+    "es": "chile",
+    "en": "Chile",
+    "pos": [
+      "proper noun"
+    ],
+    "tags": [
+      "Place",
+      "Country"
+    ]
+  },
+  {
+    "es": "control",
+    "en": "control",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Management"
+    ]
+  },
+  {
+    "es": "deben",
+    "en": "must",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Obligation",
+      "Necessity"
+    ]
+  },
+  {
+    "es": "empresas",
+    "en": "companies",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Business",
+      "Organization"
+    ]
+  },
+  {
+    "es": "encontrar",
+    "en": "to find",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Discovery"
+    ]
+  },
+  {
+    "es": "inglés",
+    "en": "English",
+    "pos": [
+      "adjective",
+      "noun"
+    ],
+    "tags": [
+      "Language",
+      "Nationality"
+    ]
+  },
+  {
+    "es": "marzo",
+    "en": "March",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Time",
+      "Date"
+    ]
+  },
+  {
+    "es": "peor",
+    "en": "worse",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "tags": [
+      "Comparison",
+      "Description"
+    ]
+  },
+  {
+    "es": "serie",
+    "en": "series",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Entertainment",
+      "Media"
+    ]
+  },
+  {
+    "es": "sur",
+    "en": "south",
+    "pos": [
+      "noun",
+      "adverb"
+    ],
+    "tags": [
+      "Direction",
+      "Location"
+    ]
+  },
+  {
+    "es": "trabajar",
+    "en": "to work",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Occupation"
+    ]
+  },
+  {
+    "es": "última",
+    "en": "last",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Time",
+      "Description"
+    ]
+  },
+  {
+    "es": "asi",
+    "en": "like this",
+    "pos": [
+      "adverb"
+    ],
+    "tags": [
+      "Manner",
+      "Comparison"
+    ]
+  },
+  {
+    "es": "edad",
+    "en": "age",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Time",
+      "Characteristics"
+    ]
+  },
+  {
+    "es": "futuro",
+    "en": "future",
+    "pos": [
+      "noun",
+      "adjective"
+    ],
+    "tags": [
+      "Time",
+      "Prospects"
+    ]
+  },
+  {
+    "es": "justicia",
+    "en": "justice",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Society",
+      "Morality"
+    ]
+  },
+  {
+    "es": "libertad",
+    "en": "freedom",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Society",
+      "Rights"
+    ]
+  },
+  {
+    "es": "nuestras",
+    "en": "our",
+    "pos": [
+      "adjective",
+      "pronoun"
+    ],
+    "tags": [
+      "Possession",
+      "Relationships"
+    ]
+  },
+  {
+    "es": "pesar",
+    "en": "to weigh",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Measurement"
+    ]
+  },
+  {
+    "es": "tampoco",
+    "en": "neither",
+    "pos": [
+      "adverb"
+    ],
+    "tags": [
+      "Negation",
+      "Comparison"
+    ]
+  },
+  {
+    "es": "venezuela",
+    "en": "Venezuela",
+    "pos": [
+      "proper noun"
+    ],
+    "tags": [
+      "Places",
+      "Geography"
+    ]
+  },
+  {
+    "es": "allá",
+    "en": "over there",
+    "pos": [
+      "adverb"
+    ],
+    "tags": [
+      "Location",
+      "Direction"
+    ]
+  },
+  {
+    "es": "cantidad",
+    "en": "quantity",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Measurement",
+      "Properties"
+    ]
+  },
+  {
+    "es": "corazón",
+    "en": "heart",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Body",
+      "Emotions"
+    ]
+  },
+  {
+    "es": "diciembre",
+    "en": "December",
+    "pos": [
+      "proper noun"
+    ],
+    "tags": [
+      "Time",
+      "Calendar"
+    ]
+  },
+  {
+    "es": "encuentra",
+    "en": "finds",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Discovery"
+    ]
+  },
+  {
+    "es": "existe",
+    "en": "exists",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "State",
+      "Reality"
+    ]
+  },
+  {
+    "es": "imagen",
+    "en": "image",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Representation",
+      "Media"
+    ]
+  },
+  {
+    "es": "importa",
+    "en": "matters",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Importance",
+      "Value"
+    ]
+  },
+  {
+    "es": "norte",
+    "en": "north",
+    "pos": [
+      "noun",
+      "adjective"
+    ],
+    "tags": [
+      "Direction",
+      "Geography"
+    ]
+  },
+  {
+    "es": "octubre",
+    "en": "October",
+    "pos": [
+      "proper noun"
+    ],
+    "tags": [
+      "Time",
+      "Calendar"
+    ]
+  },
+  {
+    "es": "político",
+    "en": "politician",
+    "pos": [
+      "noun",
+      "adjective"
+    ],
+    "tags": [
+      "Society",
+      "Politics"
+    ]
+  },
+  {
+    "es": "principal",
+    "en": "main",
+    "pos": [
+      "adjective",
+      "noun"
+    ],
+    "tags": [
+      "Importance",
+      "Education"
+    ]
+  },
+  {
+    "es": "propia",
+    "en": "own",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Possession",
+      "Identity"
+    ]
+  },
+  {
+    "es": "vi",
+    "en": "I saw",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Perception"
+    ]
+  },
+  {
+    "es": "vista",
+    "en": "view",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Nature",
+      "Perception"
+    ]
+  },
+  {
+    "es": "volver",
+    "en": "to return",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Movement"
+    ]
+  },
+  {
+    "es": "voz",
+    "en": "voice",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Communication",
+      "Sound"
+    ]
+  },
+  {
+    "es": "actual",
+    "en": "current",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Time",
+      "Relevance"
+    ]
+  },
+  {
+    "es": "ambos",
+    "en": "both",
+    "pos": [
+      "determiner",
+      "pronoun"
+    ],
+    "tags": [
+      "Quantity",
+      "Inclusion"
+    ]
+  },
+  {
+    "es": "elecciones",
+    "en": "elections",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Politics",
+      "Society"
+    ]
+  },
+  {
+    "es": "estudio",
+    "en": "study",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "tags": [
+      "Education",
+      "Research"
+    ]
+  },
+  {
+    "es": "grupos",
+    "en": "groups",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Society",
+      "Organization"
+    ]
+  },
+  {
+    "es": "media",
+    "en": "media",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Communication",
+      "Technology"
+    ]
+  },
+  {
+    "es": "mira",
+    "en": "look",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Perception"
+    ]
+  },
+  {
+    "es": "modo",
+    "en": "way",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Method",
+      "Style"
+    ]
+  },
+  {
+    "es": "palabra",
+    "en": "word",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Language",
+      "Communication"
+    ]
+  },
+  {
+    "es": "pasó",
+    "en": "passed",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Time"
+    ]
+  },
+  {
+    "es": "sean",
+    "en": "may be",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Uncertainty",
+      "Possibility"
+    ]
+  },
+  {
+    "es": "tenido",
+    "en": "had",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Possession"
+    ]
+  },
+  {
+    "es": "abril",
+    "en": "April",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Time",
+      "Calendar"
+    ]
+  },
+  {
+    "es": "campo",
+    "en": "field",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Nature",
+      "Location"
+    ]
+  },
+  {
+    "es": "hubiera",
+    "en": "would have",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Condition"
+    ]
+  },
+  {
+    "es": "internet",
+    "en": "internet",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Technology",
+      "Communication"
+    ]
+  },
+  {
+    "es": "joven",
+    "en": "young",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Person",
+      "Description"
+    ]
+  },
+  {
+    "es": "nuevos",
+    "en": "new",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Description",
+      "Time"
+    ]
+  },
+  {
+    "es": "plan",
+    "en": "plan",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Strategy"
+    ]
+  },
+  {
+    "es": "puntos",
+    "en": "points",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Quantity",
+      "Location"
+    ]
+  },
+  {
+    "es": "pública",
+    "en": "public",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Society",
+      "Access"
+    ]
+  },
+  {
+    "es": "región",
+    "en": "region",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Location",
+      "Geography"
+    ]
+  },
+  {
+    "es": "significa",
+    "en": "means",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Explanation"
+    ]
+  },
+  {
+    "es": "comunidad",
+    "en": "community",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Society",
+      "Group"
+    ]
+  },
+  {
+    "es": "dirección",
+    "en": "direction",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Location",
+      "Guidance"
+    ]
+  },
+  {
+    "es": "habían",
+    "en": "had",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Time"
+    ]
+  },
+  {
+    "es": "has",
+    "en": "you have",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Possession"
+    ]
+  },
+  {
+    "es": "investigación",
+    "en": "research",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Action",
+      "Science"
+    ]
+  },
+  {
+    "es": "junio",
+    "en": "June",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Time",
+      "Calendar"
+    ]
+  },
+  {
+    "es": "lleva",
+    "en": "takes",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Movement"
+    ]
+  },
+  {
+    "es": "nuevas",
+    "en": "new",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Description",
+      "Time"
+    ]
+  },
+  {
+    "es": "partidos",
+    "en": "parties",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Society",
+      "Politics"
+    ]
+  },
+  {
+    "es": "partir",
+    "en": "to leave",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Movement"
+    ]
+  },
+  {
+    "es": "película",
+    "en": "movie",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Entertainment",
+      "Art"
+    ]
+  },
+  {
+    "es": "república",
+    "en": "republic",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Politics",
+      "Government"
+    ]
+  },
+  {
+    "es": "resto",
+    "en": "rest",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "State"
+    ]
+  },
+  {
+    "es": "vuelta",
+    "en": "return",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Movement"
+    ]
+  },
+  {
+    "es": "consejo",
+    "en": "advice",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Communication",
+      "Guidance"
+    ]
+  },
+  {
+    "es": "dan",
+    "en": "they give",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Social"
+    ]
+  },
+  {
+    "es": "dónde",
+    "en": "where",
+    "pos": [
+      "adverb"
+    ],
+    "tags": [
+      "Location",
+      "Question"
+    ]
+  },
+  {
+    "es": "hacerlo",
+    "en": "to do it",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Task"
+    ]
+  },
+  {
+    "es": "llamado",
+    "en": "called",
+    "pos": [
+      "verb",
+      "adjective"
+    ],
+    "tags": [
+      "Action",
+      "Identification"
+    ]
+  },
+  {
+    "es": "mercado",
+    "en": "market",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Economy",
+      "Trade"
+    ]
+  },
+  {
+    "es": "movimiento",
+    "en": "movement",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Action",
+      "Change"
+    ]
+  },
+  {
+    "es": "noviembre",
+    "en": "November",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Time",
+      "Calendar"
+    ]
+  },
+  {
+    "es": "papel",
+    "en": "paper",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Object",
+      "Material"
+    ]
+  },
+  {
+    "es": "precio",
+    "en": "price",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Economy",
+      "Value"
+    ]
+  },
+  {
+    "es": "respuesta",
+    "en": "answer",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Communication",
+      "Reaction"
+    ]
+  },
+  {
+    "es": "seis",
+    "en": "six",
+    "pos": [
+      "number"
+    ],
+    "tags": [
+      "Math",
+      "Quantity"
+    ]
+  },
+  {
+    "es": "simplemente",
+    "en": "simply",
+    "pos": [
+      "adverb"
+    ],
+    "tags": [
+      "Manner",
+      "Simplicity"
+    ]
+  },
+  {
+    "es": "única",
+    "en": "unique",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Description",
+      "Exclusivity"
+    ]
+  },
+  {
+    "es": "agosto",
+    "en": "August",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Time",
+      "Calendar"
+    ]
+  },
+  {
+    "es": "aun",
+    "en": "even",
+    "pos": [
+      "adverb"
+    ],
+    "tags": [
+      "Manner",
+      "Emphasis"
+    ]
+  },
+  {
+    "es": "cargo",
+    "en": "cargo",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Transportation",
+      "Commerce"
+    ]
+  },
+  {
+    "es": "comida",
+    "en": "food",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Food",
+      "Culture"
+    ]
+  },
+  {
+    "es": "cuales",
+    "en": "which",
+    "pos": [
+      "pronoun",
+      "adjective"
+    ],
+    "tags": [
+      "Language",
+      "Grammar"
+    ]
+  },
+  {
+    "es": "ellas",
+    "en": "they",
+    "pos": [
+      "pronoun"
+    ],
+    "tags": [
+      "Pronouns",
+      "Grammar"
+    ]
+  },
+  {
+    "es": "enero",
+    "en": "January",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Time",
+      "Calendar"
+    ]
+  },
+  {
+    "es": "experiencia",
+    "en": "experience",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Psychology",
+      "Personal Growth"
+    ]
+  },
+  {
+    "es": "jefe",
+    "en": "boss",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Work",
+      "Authority"
+    ]
+  },
+  {
+    "es": "leer",
+    "en": "to read",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Education",
+      "Literacy"
+    ]
+  },
+  {
+    "es": "llama",
+    "en": "flame",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Nature",
+      "Fire"
+    ]
+  },
+  {
+    "es": "llevar",
+    "en": "to take",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Movement"
+    ]
+  },
+  {
+    "es": "miembros",
+    "en": "members",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Social",
+      "Groups"
+    ]
+  },
+  {
+    "es": "padres",
+    "en": "parents",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Family",
+      "Relationships"
+    ]
+  },
+  {
+    "es": "pena",
+    "en": "shame",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Emotions",
+      "Psychology"
+    ]
+  },
+  {
+    "es": "producción",
+    "en": "production",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Economy",
+      "Industry"
+    ]
+  },
+  {
+    "es": "siglo",
+    "en": "century",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Time",
+      "History"
+    ]
+  },
+  {
+    "es": "ustedes",
+    "en": "you",
+    "pos": [
+      "pronoun"
+    ],
+    "tags": [
+      "Pronouns",
+      "Grammar"
+    ]
+  },
+  {
+    "es": "cabo",
+    "en": "cape",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Geography",
+      "Clothing"
+    ]
+  },
+  {
+    "es": "común",
+    "en": "common",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Language",
+      "Description"
+    ]
+  },
+  {
+    "es": "economía",
+    "en": "economy",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Finance",
+      "Society"
+    ]
+  },
+  {
+    "es": "entiendo",
+    "en": "I understand",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Language",
+      "Cognition"
+    ]
+  },
+  {
+    "es": "espacio",
+    "en": "space",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Nature",
+      "Concept"
+    ]
+  },
+  {
+    "es": "febrero",
+    "en": "February",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Time",
+      "Calendar"
+    ]
+  },
+  {
+    "es": "hablando",
+    "en": "speaking",
+    "pos": [
+      "verb",
+      "gerund"
+    ],
+    "tags": [
+      "Action",
+      "Communication"
+    ]
+  },
+  {
+    "es": "haga",
+    "en": "do",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Command"
+    ]
+  },
+  {
+    "es": "necesita",
+    "en": "needs",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Necessity"
+    ]
+  },
+  {
+    "es": "opinión",
+    "en": "opinion",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Concept",
+      "Thought"
+    ]
+  },
+  {
+    "es": "oportunidad",
+    "en": "opportunity",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Concept",
+      "Chance"
+    ]
+  },
+  {
+    "es": "organización",
+    "en": "organization",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Group",
+      "Structure"
+    ]
+  },
+  {
+    "es": "partes",
+    "en": "parts",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Object",
+      "Component"
+    ]
+  },
+  {
+    "es": "página",
+    "en": "page",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Object",
+      "Document"
+    ]
+  },
+  {
+    "es": "resultados",
+    "en": "results",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Concept",
+      "Outcome"
+    ]
+  },
+  {
+    "es": "santa",
+    "en": "saint",
+    "pos": [
+      "adjective",
+      "noun"
+    ],
+    "tags": [
+      "Person",
+      "Religion"
+    ]
+  },
+  {
+    "es": "tenga",
+    "en": "have",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Possession"
+    ]
+  },
+  {
+    "es": "vale",
+    "en": "worth",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "tags": [
+      "Concept",
+      "Value"
+    ]
+  },
+  {
+    "es": "acción",
+    "en": "action",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Concept",
+      "Activity"
+    ]
+  },
+  {
+    "es": "arte",
+    "en": "art",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Concept",
+      "Creativity"
+    ]
+  },
+  {
+    "es": "condiciones",
+    "en": "conditions",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Concept",
+      "Circumstance"
+    ]
+  },
+  {
+    "es": "conocer",
+    "en": "to know",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Cognition"
+    ]
+  },
+  {
+    "es": "estuvo",
+    "en": "was",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "State"
+    ]
+  },
+  {
+    "es": "necesito",
+    "en": "I need",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Necessity"
+    ]
+  },
+  {
+    "es": "noticias",
+    "en": "news",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Media",
+      "Information"
+    ]
+  },
+  {
+    "es": "plaza",
+    "en": "square",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Location",
+      "Architecture"
+    ]
+  },
+  {
+    "es": "septiembre",
+    "en": "September",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Time",
+      "Calendar"
+    ]
+  },
+  {
+    "es": "usar",
+    "en": "to use",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Utility"
+    ]
+  },
+  {
+    "es": "valor",
+    "en": "value",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Concept",
+      "Economy"
+    ]
+  },
+  {
+    "es": "vivo",
+    "en": "alive",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "State",
+      "Nature"
+    ]
+  },
+  {
+    "es": "calidad",
+    "en": "quality",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Attribute",
+      "Evaluation"
+    ]
+  },
+  {
+    "es": "causa",
+    "en": "cause",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Reason",
+      "Philosophy"
+    ]
+  },
+  {
+    "es": "central",
+    "en": "central",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Location",
+      "Geometry"
+    ]
+  },
+  {
+    "es": "director",
+    "en": "director",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Person",
+      "Leadership"
+    ]
+  },
+  {
+    "es": "duda",
+    "en": "doubt",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Emotion",
+      "Uncertainty"
+    ]
+  },
+  {
+    "es": "europa",
+    "en": "Europe",
+    "pos": [
+      "proper noun"
+    ],
+    "tags": [
+      "Location",
+      "Geography"
+    ]
+  },
+  {
+    "es": "fecha",
+    "en": "date",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Time",
+      "Calendar"
+    ]
+  },
+  {
+    "es": "feliz",
+    "en": "happy",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Emotion",
+      "State"
+    ]
+  },
+  {
+    "es": "iglesia",
+    "en": "church",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Religion",
+      "Architecture"
+    ]
+  },
+  {
+    "es": "necesario",
+    "en": "necessary",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "State",
+      "Necessity"
+    ]
+  },
+  {
+    "es": "obras",
+    "en": "works",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Art",
+      "Creation"
+    ]
+  },
+  {
+    "es": "políticos",
+    "en": "politicians",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Person",
+      "Government"
+    ]
+  },
+  {
+    "es": "pronto",
+    "en": "soon",
+    "pos": [
+      "adverb"
+    ],
+    "tags": [
+      "Time",
+      "Anticipation"
+    ]
+  },
+  {
+    "es": "resultado",
+    "en": "result",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Outcome",
+      "Evaluation"
+    ]
+  },
+  {
+    "es": "alta",
+    "en": "high",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Description",
+      "Measurement"
+    ]
+  },
+  {
+    "es": "cambiar",
+    "en": "to change",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Transformation"
+    ]
+  },
+  {
+    "es": "civil",
+    "en": "civil",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Society",
+      "Law"
+    ]
+  },
+  {
+    "es": "colombia",
+    "en": "Colombia",
+    "pos": [
+      "proper noun"
+    ],
+    "tags": [
+      "Location",
+      "Geography"
+    ]
+  },
+  {
+    "es": "hermano",
+    "en": "brother",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Family",
+      "Relationship"
+    ]
+  },
+  {
+    "es": "libros",
+    "en": "books",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Education",
+      "Entertainment"
+    ]
+  },
+  {
+    "es": "local",
+    "en": "local",
+    "pos": [
+      "adjective",
+      "noun"
+    ],
+    "tags": [
+      "Location",
+      "Community"
+    ]
+  },
+  {
+    "es": "mar",
+    "en": "sea",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Nature",
+      "Geography"
+    ]
+  },
+  {
+    "es": "mismos",
+    "en": "same",
+    "pos": [
+      "adjective",
+      "pronoun"
+    ],
+    "tags": [
+      "Description",
+      "Comparison"
+    ]
+  },
+  {
+    "es": "viaje",
+    "en": "trip",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Travel",
+      "Adventure"
+    ]
+  },
+  {
+    "es": "últimos",
+    "en": "last",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Time",
+      "Sequence"
+    ]
+  },
+  {
+    "es": "acerca",
+    "en": "about",
+    "pos": [
+      "preposition",
+      "adverb"
+    ],
+    "tags": [
+      "Information",
+      "Context"
+    ]
+  },
+  {
+    "es": "acá",
+    "en": "here",
+    "pos": [
+      "adverb"
+    ],
+    "tags": [
+      "Location",
+      "Direction"
+    ]
+  },
+  {
+    "es": "alrededor",
+    "en": "around",
+    "pos": [
+      "preposition",
+      "adverb"
+    ],
+    "tags": [
+      "Location",
+      "Movement"
+    ]
+  },
+  {
+    "es": "campaña",
+    "en": "campaign",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Politics",
+      "Marketing"
+    ]
+  },
+  {
+    "es": "carrera",
+    "en": "career",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Work",
+      "Education"
+    ]
+  },
+  {
+    "es": "ejército",
+    "en": "army",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Military",
+      "Organization"
+    ]
+  },
+  {
+    "es": "encima",
+    "en": "above",
+    "pos": [
+      "preposition",
+      "adverb"
+    ],
+    "tags": [
+      "Location",
+      "Position"
+    ]
+  },
+  {
+    "es": "estudios",
+    "en": "studies",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Education",
+      "Research"
+    ]
+  },
+  {
+    "es": "interés",
+    "en": "interest",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Finance",
+      "Curiosity"
+    ]
+  },
+  {
+    "es": "llegó",
+    "en": "arrived",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Movement"
+    ]
+  },
+  {
+    "es": "mensaje",
+    "en": "message",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Communication",
+      "Information"
+    ]
+  },
+  {
+    "es": "negro",
+    "en": "black",
+    "pos": [
+      "adjective",
+      "noun"
+    ],
+    "tags": [
+      "Color",
+      "Description"
+    ]
+  },
+  {
+    "es": "niño",
+    "en": "boy",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Person",
+      "Youth"
+    ]
+  },
+  {
+    "es": "objetivo",
+    "en": "goal",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Purpose",
+      "Ambition"
+    ]
+  },
+  {
+    "es": "of",
+    "en": "of",
+    "pos": [
+      "preposition"
+    ],
+    "tags": [
+      "Grammar",
+      "Function"
+    ]
+  },
+  {
+    "es": "popular",
+    "en": "popular",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Society",
+      "Trend"
+    ]
+  },
+  {
+    "es": "principio",
+    "en": "principle",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Concept",
+      "Foundation"
+    ]
+  },
+  {
+    "es": "provincia",
+    "en": "province",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Geography",
+      "Administration"
+    ]
+  },
+  {
+    "es": "recursos",
+    "en": "resources",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Economy",
+      "Availability"
+    ]
+  },
+  {
+    "es": "red",
+    "en": "net",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Technology",
+      "Network"
+    ]
+  },
+  {
+    "es": "río",
+    "en": "river",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Nature",
+      "Geography"
+    ]
+  },
+  {
+    "es": "ah",
+    "en": "ah",
+    "pos": [
+      "interjection"
+    ],
+    "tags": [
+      "Emotion",
+      "Expression"
+    ]
+  },
+  {
+    "es": "aquellos",
+    "en": "those",
+    "pos": [
+      "pronoun"
+    ],
+    "tags": [
+      "Reference",
+      "Demonstration"
+    ]
+  },
+  {
+    "es": "ayer",
+    "en": "yesterday",
+    "pos": [
+      "adverb",
+      "noun"
+    ],
+    "tags": [
+      "Time",
+      "Past"
+    ]
+  },
+  {
+    "es": "blanco",
+    "en": "white",
+    "pos": [
+      "adjective",
+      "noun"
+    ],
+    "tags": [
+      "Color",
+      "Description"
+    ]
+  },
+  {
+    "es": "carlos",
+    "en": "charles",
+    "pos": [
+      "proper noun"
+    ],
+    "tags": [
+      "Person",
+      "Name"
+    ]
+  },
+  {
+    "es": "comer",
+    "en": "to eat",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Consumption"
+    ]
+  },
+  {
+    "es": "compañía",
+    "en": "company",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Business",
+      "Organization"
+    ]
+  },
+  {
+    "es": "diciendo",
+    "en": "saying",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Communication",
+      "Expression"
+    ]
+  },
+  {
+    "es": "especialmente",
+    "en": "especially",
+    "pos": [
+      "adverb"
+    ],
+    "tags": [
+      "Manner",
+      "Degree"
+    ]
+  },
+  {
+    "es": "ganar",
+    "en": "to win",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Competition"
+    ]
+  },
+  {
+    "es": "interior",
+    "en": "interior",
+    "pos": [
+      "noun",
+      "adjective"
+    ],
+    "tags": [
+      "Space",
+      "Description"
+    ]
+  },
+  {
+    "es": "lucha",
+    "en": "fight",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Conflict"
+    ]
+  },
+  {
+    "es": "mediante",
+    "en": "by means of",
+    "pos": [
+      "preposition"
+    ],
+    "tags": [
+      "Method",
+      "Instrument"
+    ]
+  },
+  {
+    "es": "nota",
+    "en": "note",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Communication",
+      "Music"
+    ]
+  },
+  {
+    "es": "pequeño",
+    "en": "small",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Size",
+      "Description"
+    ]
+  },
+  {
+    "es": "prueba",
+    "en": "test",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "tags": [
+      "Evaluation",
+      "Action"
+    ]
+  },
+  {
+    "es": "saben",
+    "en": "they know",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Knowledge",
+      "State"
+    ]
+  },
+  {
+    "es": "sol",
+    "en": "sun",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Nature",
+      "Environment"
+    ]
+  },
+  {
+    "es": "twitter",
+    "en": "twitter",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "tags": [
+      "Technology",
+      "Communication"
+    ]
+  },
+  {
+    "es": "vaya",
+    "en": "go",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Movement"
+    ]
+  },
+  {
+    "es": "anterior",
+    "en": "previous",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Time",
+      "Order"
+    ]
+  },
+  {
+    "es": "buscar",
+    "en": "to search",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Investigation"
+    ]
+  },
+  {
+    "es": "dia",
+    "en": "day",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Time",
+      "Unit"
+    ]
+  },
+  {
+    "es": "fuerzas",
+    "en": "forces",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Power",
+      "Physics"
+    ]
+  },
+  {
+    "es": "justo",
+    "en": "fair",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Morality",
+      "Evaluation"
+    ]
+  },
+  {
+    "es": "lugares",
+    "en": "places",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Space",
+      "Location"
+    ]
+  },
+  {
+    "es": "medida",
+    "en": "measure",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "tags": [
+      "Quantity",
+      "Evaluation"
+    ]
+  },
+  {
+    "es": "podía",
+    "en": "could",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Ability",
+      "State"
+    ]
+  },
+  {
+    "es": "primeros",
+    "en": "first",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "tags": [
+      "Order",
+      "Time"
+    ]
+  },
+  {
+    "es": "principales",
+    "en": "main",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Importance",
+      "Priority"
+    ]
+  },
+  {
+    "es": "temas",
+    "en": "topics",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Communication",
+      "Information"
+    ]
+  },
+  {
+    "es": "ven",
+    "en": "come",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Movement"
+    ]
+  },
+  {
+    "es": "éxito",
+    "en": "success",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Achievement",
+      "Result"
+    ]
+  },
+  {
+    "es": "actividades",
+    "en": "activities",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Action",
+      "Leisure"
+    ]
+  },
+  {
+    "es": "adelante",
+    "en": "forward",
+    "pos": [
+      "adverb",
+      "preposition"
+    ],
+    "tags": [
+      "Direction",
+      "Progress"
+    ]
+  },
+  {
+    "es": "aire",
+    "en": "air",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Nature",
+      "Environment"
+    ]
+  },
+  {
+    "es": "américa",
+    "en": "America",
+    "pos": [
+      "proper noun"
+    ],
+    "tags": [
+      "Location",
+      "Geography"
+    ]
+  },
+  {
+    "es": "arriba",
+    "en": "up",
+    "pos": [
+      "adverb",
+      "preposition"
+    ],
+    "tags": [
+      "Direction",
+      "Position"
+    ]
+  },
+  {
+    "es": "autor",
+    "en": "author",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Person",
+      "Literature"
+    ]
+  },
+  {
+    "es": "baja",
+    "en": "low",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Quantity",
+      "Comparison"
+    ]
+  },
+  {
+    "es": "diferencia",
+    "en": "difference",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Comparison",
+      "Distinction"
+    ]
+  },
+  {
+    "es": "dije",
+    "en": "I said",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Communication",
+      "Past"
+    ]
+  },
+  {
+    "es": "entrar",
+    "en": "to enter",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Movement"
+    ]
+  },
+  {
+    "es": "estilo",
+    "en": "style",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Aesthetics",
+      "Design"
+    ]
+  },
+  {
+    "es": "ex",
+    "en": "former",
+    "pos": [
+      "prefix"
+    ],
+    "tags": [
+      "Relationship",
+      "Status"
+    ]
+  },
+  {
+    "es": "in",
+    "en": "in",
+    "pos": [
+      "preposition"
+    ],
+    "tags": [
+      "Location",
+      "Direction"
+    ]
+  },
+  {
+    "es": "juegos",
+    "en": "games",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Leisure",
+      "Entertainment"
+    ]
+  },
+  {
+    "es": "lejos",
+    "en": "far",
+    "pos": [
+      "adverb",
+      "adjective"
+    ],
+    "tags": [
+      "Distance",
+      "Comparison"
+    ]
+  },
+  {
+    "es": "luis",
+    "en": "Louis",
+    "pos": [
+      "proper noun"
+    ],
+    "tags": [
+      "Person",
+      "Identification"
+    ]
+  },
+  {
+    "es": "mala",
+    "en": "bad",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Quality",
+      "Evaluation"
+    ]
+  },
+  {
+    "es": "maría",
+    "en": "Mary",
+    "pos": [
+      "proper noun"
+    ],
+    "tags": [
+      "Person",
+      "Identification"
+    ]
+  },
+  {
+    "es": "militar",
+    "en": "military",
+    "pos": [
+      "adjective",
+      "noun"
+    ],
+    "tags": [
+      "Profession",
+      "Organization"
+    ]
+  },
+  {
+    "es": "muestra",
+    "en": "sample",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Object",
+      "Example"
+    ]
+  },
+  {
+    "es": "oro",
+    "en": "gold",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Material",
+      "Value"
+    ]
+  },
+  {
+    "es": "par",
+    "en": "pair",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Quantity",
+      "Relationship"
+    ]
+  },
+  {
+    "es": "plata",
+    "en": "silver",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Material",
+      "Value"
+    ]
+  },
+  {
+    "es": "puerta",
+    "en": "door",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Object",
+      "Architecture"
+    ]
+  },
+  {
+    "es": "relaciones",
+    "en": "relationships",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Social",
+      "Interaction"
+    ]
+  },
+  {
+    "es": "sola",
+    "en": "alone",
+    "pos": [
+      "adverb"
+    ],
+    "tags": [
+      "State",
+      "Emotion"
+    ]
+  },
+  {
+    "es": "ayudar",
+    "en": "to help",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Assistance"
+    ]
+  },
+  {
+    "es": "canción",
+    "en": "song",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Art",
+      "Music"
+    ]
+  },
+  {
+    "es": "color",
+    "en": "color",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Property",
+      "Appearance"
+    ]
+  },
+  {
+    "es": "contigo",
+    "en": "with you",
+    "pos": [
+      "preposition"
+    ],
+    "tags": [
+      "Location",
+      "Relationship"
+    ]
+  },
+  {
+    "es": "defensa",
+    "en": "defense",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Action",
+      "Protection"
+    ]
+  },
+  {
+    "es": "dólares",
+    "en": "dollars",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Currency",
+      "Economy"
+    ]
+  },
+  {
+    "es": "fondo",
+    "en": "background",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Location",
+      "Context"
+    ]
+  },
+  {
+    "es": "fútbol",
+    "en": "soccer",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Sport",
+      "Game"
+    ]
+  },
+  {
+    "es": "hago",
+    "en": "I do",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Expression"
+    ]
+  },
+  {
+    "es": "hija",
+    "en": "daughter",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Family",
+      "Relationships"
+    ]
+  },
+  {
+    "es": "humanos",
+    "en": "humans",
+    "pos": [
+      "noun",
+      "adjective"
+    ],
+    "tags": [
+      "Society",
+      "Biology"
+    ]
+  },
+  {
+    "es": "ideas",
+    "en": "ideas",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Thought",
+      "Creativity"
+    ]
+  },
+  {
+    "es": "importantes",
+    "en": "important",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Value",
+      "Significance"
+    ]
+  },
+  {
+    "es": "llega",
+    "en": "arrives",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Movement"
+    ]
+  },
+  {
+    "es": "menor",
+    "en": "minor",
+    "pos": [
+      "adjective",
+      "noun"
+    ],
+    "tags": [
+      "Age",
+      "Law"
+    ]
+  },
+  {
+    "es": "ministerio",
+    "en": "ministry",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Government",
+      "Religion"
+    ]
+  },
+  {
+    "es": "pocos",
+    "en": "few",
+    "pos": [
+      "adjective",
+      "determiner"
+    ],
+    "tags": [
+      "Quantity",
+      "Measurement"
+    ]
+  },
+  {
+    "es": "puerto",
+    "en": "port",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Geography",
+      "Transportation"
+    ]
+  },
+  {
+    "es": "quería",
+    "en": "wanted",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Desire",
+      "Intention"
+    ]
+  },
+  {
+    "es": "recuerdo",
+    "en": "memory",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Cognition",
+      "Emotion"
+    ]
+  },
+  {
+    "es": "semanas",
+    "en": "weeks",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Time",
+      "Measurement"
+    ]
+  },
+  {
+    "es": "acceso",
+    "en": "access",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Technology",
+      "Opportunity"
+    ]
+  },
+  {
+    "es": "armas",
+    "en": "weapons",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Warfare",
+      "Violence"
+    ]
+  },
+  {
+    "es": "busca",
+    "en": "searches",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Investigation"
+    ]
+  },
+  {
+    "es": "comunicación",
+    "en": "communication",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Language",
+      "Interaction"
+    ]
+  },
+  {
+    "es": "congreso",
+    "en": "congress",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Government",
+      "Politics"
+    ]
+  },
+  {
+    "es": "espera",
+    "en": "waits",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Expectation"
+    ]
+  },
+  {
+    "es": "evitar",
+    "en": "avoid",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Prevention"
+    ]
+  },
+  {
+    "es": "finalmente",
+    "en": "finally",
+    "pos": [
+      "adverb"
+    ],
+    "tags": [
+      "Time",
+      "Conclusion"
+    ]
+  },
+  {
+    "es": "fuente",
+    "en": "source",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Nature",
+      "Information"
+    ]
+  },
+  {
+    "es": "hubo",
+    "en": "there was",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Existence"
+    ]
+  },
+  {
+    "es": "jugar",
+    "en": "to play",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Entertainment"
+    ]
+  },
+  {
+    "es": "juntos",
+    "en": "together",
+    "pos": [
+      "adverb"
+    ],
+    "tags": [
+      "Relationship",
+      "Location"
+    ]
+  },
+  {
+    "es": "ministro",
+    "en": "minister",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Politics",
+      "Profession"
+    ]
+  },
+  {
+    "es": "productos",
+    "en": "products",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Business",
+      "Goods"
+    ]
+  },
+  {
+    "es": "puta",
+    "en": "whore",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "People",
+      "Offense"
+    ]
+  },
+  {
+    "es": "siquiera",
+    "en": "even",
+    "pos": [
+      "adverb"
+    ],
+    "tags": [
+      "Quantity",
+      "Emphasis"
+    ]
+  },
+  {
+    "es": "época",
+    "en": "era",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Time",
+      "History"
+    ]
+  },
+  {
+    "es": "acciones",
+    "en": "actions",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Action",
+      "Behavior"
+    ]
+  },
+  {
+    "es": "actividad",
+    "en": "activity",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Action",
+      "Event"
+    ]
+  },
+  {
+    "es": "banco",
+    "en": "bank",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Finance",
+      "Institution"
+    ]
+  },
+  {
+    "es": "conocido",
+    "en": "known",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Information",
+      "Familiarity"
+    ]
+  },
+  {
+    "es": "conseguir",
+    "en": "to achieve",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Success"
+    ]
+  },
+  {
+    "es": "construcción",
+    "en": "construction",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Action",
+      "Building"
+    ]
+  },
+  {
+    "es": "corte",
+    "en": "cut",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Separation"
+    ]
+  },
+  {
+    "es": "cualquiera",
+    "en": "anyone",
+    "pos": [
+      "pronoun"
+    ],
+    "tags": [
+      "People",
+      "Indefiniteness"
+    ]
+  },
+  {
+    "es": "departamento",
+    "en": "department",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Organization",
+      "Division"
+    ]
+  },
+  {
+    "es": "diez",
+    "en": "ten",
+    "pos": [
+      "number"
+    ],
+    "tags": [
+      "Quantity",
+      "Math"
+    ]
+  },
+  {
+    "es": "existen",
+    "en": "exist",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Existence",
+      "Reality"
+    ]
+  },
+  {
+    "es": "formas",
+    "en": "forms",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Concept",
+      "Thing"
+    ]
+  },
+  {
+    "es": "mitad",
+    "en": "half",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Quantity",
+      "Measure"
+    ]
+  },
+  {
+    "es": "oficina",
+    "en": "office",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Place",
+      "Work"
+    ]
+  },
+  {
+    "es": "presente",
+    "en": "present",
+    "pos": [
+      "noun",
+      "adjective"
+    ],
+    "tags": [
+      "Time",
+      "Gift"
+    ]
+  },
+  {
+    "es": "queremos",
+    "en": "we want",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Desire"
+    ]
+  },
+  {
+    "es": "sector",
+    "en": "sector",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Economy",
+      "Division"
+    ]
+  },
+  {
+    "es": "serio",
+    "en": "serious",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Emotion",
+      "Attitude"
+    ]
+  },
+  {
+    "es": "superior",
+    "en": "superior",
+    "pos": [
+      "adjective",
+      "noun"
+    ],
+    "tags": [
+      "Comparison",
+      "Rank"
+    ]
+  },
+  {
+    "es": "supuesto",
+    "en": "assumed",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Thought",
+      "Assumption"
+    ]
+  },
+  {
+    "es": "boca",
+    "en": "mouth",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Body",
+      "Anatomy"
+    ]
+  },
+  {
+    "es": "capacidad",
+    "en": "capacity",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Ability",
+      "Quantity"
+    ]
+  },
+  {
+    "es": "comprar",
+    "en": "to buy",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Commerce"
+    ]
+  },
+  {
+    "es": "crear",
+    "en": "to create",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Art"
+    ]
+  },
+  {
+    "es": "diferente",
+    "en": "different",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Comparison",
+      "Distinction"
+    ]
+  },
+  {
+    "es": "energía",
+    "en": "energy",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Science",
+      "Power"
+    ]
+  },
+  {
+    "es": "esperar",
+    "en": "to wait",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Time"
+    ]
+  },
+  {
+    "es": "haces",
+    "en": "you do",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Communication"
+    ]
+  },
+  {
+    "es": "hicieron",
+    "en": "they did",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Past"
+    ]
+  },
+  {
+    "es": "malo",
+    "en": "bad",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Emotion",
+      "Value"
+    ]
+  },
+  {
+    "es": "mantener",
+    "en": "to maintain",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Conservation"
+    ]
+  },
+  {
+    "es": "modelo",
+    "en": "model",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Object",
+      "Concept"
+    ]
+  },
+  {
+    "es": "natural",
+    "en": "natural",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Nature",
+      "Quality"
+    ]
+  },
+  {
+    "es": "necesidad",
+    "en": "necessity",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Concept",
+      "Circumstance"
+    ]
+  },
+  {
+    "es": "pequeña",
+    "en": "small",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Size",
+      "Property"
+    ]
+  },
+  {
+    "es": "preguntas",
+    "en": "questions",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Communication",
+      "Inquiry"
+    ]
+  },
+  {
+    "es": "radio",
+    "en": "radio",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Technology",
+      "Media"
+    ]
+  },
+  {
+    "es": "sale",
+    "en": "leaves",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Movement"
+    ]
+  },
+  {
+    "es": "trabajadores",
+    "en": "workers",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "People",
+      "Profession"
+    ]
+  },
+  {
+    "es": "viejo",
+    "en": "old",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Age",
+      "Property"
+    ]
+  },
+  {
+    "es": "administración",
+    "en": "administration",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Government",
+      "Management"
+    ]
+  },
+  {
+    "es": "comisión",
+    "en": "commission",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Business",
+      "Organization"
+    ]
+  },
+  {
+    "es": "conmigo",
+    "en": "with me",
+    "pos": [
+      "preposition"
+    ],
+    "tags": [
+      "Location",
+      "Relationship"
+    ]
+  },
+  {
+    "es": "costa",
+    "en": "coast",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Geography",
+      "Location"
+    ]
+  },
+  {
+    "es": "cree",
+    "en": "believes",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Thought",
+      "Action"
+    ]
+  },
+  {
+    "es": "crisis",
+    "en": "crisis",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Event",
+      "Problem"
+    ]
+  },
+  {
+    "es": "culpa",
+    "en": "guilt",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Emotion",
+      "Morality"
+    ]
+  },
+  {
+    "es": "cámara",
+    "en": "camera",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Object",
+      "Technology"
+    ]
+  },
+  {
+    "es": "diario",
+    "en": "daily",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Time",
+      "Frequency"
+    ]
+  },
+  {
+    "es": "domingo",
+    "en": "Sunday",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Time",
+      "Holiday"
+    ]
+  },
+  {
+    "es": "empezar",
+    "en": "to start",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Initiation"
+    ]
+  },
+  {
+    "es": "entender",
+    "en": "to understand",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Cognition"
+    ]
+  },
+  {
+    "es": "esté",
+    "en": "is",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "State",
+      "Existence"
+    ]
+  },
+  {
+    "es": "fuego",
+    "en": "fire",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Nature",
+      "Element"
+    ]
+  },
+  {
+    "es": "fui",
+    "en": "was",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "State",
+      "Past"
+    ]
+  },
+  {
+    "es": "habrá",
+    "en": "will be",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "State",
+      "Future"
+    ]
+  },
+  {
+    "es": "jóvenes",
+    "en": "youth",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Society",
+      "Demographics"
+    ]
+  },
+  {
+    "es": "perder",
+    "en": "to lose",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Consequence"
+    ]
+  },
+  {
+    "es": "políticas",
+    "en": "policies",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Society",
+      "Governance"
+    ]
+  },
+  {
+    "es": "pone",
+    "en": "puts",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Placement"
+    ]
+  },
+  {
+    "es": "posición",
+    "en": "position",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Location",
+      "Status"
+    ]
+  },
+  {
+    "es": "suficiente",
+    "en": "enough",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Quality",
+      "Quantity"
+    ]
+  },
+  {
+    "es": "título",
+    "en": "title",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Media",
+      "Identification"
+    ]
+  },
+  {
+    "es": "vive",
+    "en": "lives",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "State",
+      "Existence"
+    ]
+  },
+  {
+    "es": "actualmente",
+    "en": "currently",
+    "pos": [
+      "adverb"
+    ],
+    "tags": [
+      "Time",
+      "Status"
+    ]
+  },
+  {
+    "es": "creer",
+    "en": "to believe",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Cognition",
+      "Emotion"
+    ]
+  },
+  {
+    "es": "llamada",
+    "en": "call",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Communication",
+      "Action"
+    ]
+  },
+  {
+    "es": "mamá",
+    "en": "mom",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Family",
+      "Relationship"
+    ]
+  },
+  {
+    "es": "participación",
+    "en": "participation",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Society",
+      "Involvement"
+    ]
+  },
+  {
+    "es": "sangre",
+    "en": "blood",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Biology",
+      "Health"
+    ]
+  },
+  {
+    "es": "toma",
+    "en": "takes",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Acquisition"
+    ]
+  },
+  {
+    "es": "violencia",
+    "en": "violence",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Action",
+      "Society"
+    ]
+  },
+  {
+    "es": "auto",
+    "en": "car",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Transportation",
+      "Technology"
+    ]
+  },
+  {
+    "es": "brasil",
+    "en": "Brazil",
+    "pos": [
+      "proper noun"
+    ],
+    "tags": [
+      "Geography",
+      "Politics"
+    ]
+  },
+  {
+    "es": "carta",
+    "en": "letter",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Communication",
+      "Writing"
+    ]
+  },
+  {
+    "es": "china",
+    "en": "China",
+    "pos": [
+      "proper noun"
+    ],
+    "tags": [
+      "Geography",
+      "Politics"
+    ]
+  },
+  {
+    "es": "ciudadanos",
+    "en": "citizens",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Society",
+      "Politics"
+    ]
+  },
+  {
+    "es": "cuál",
+    "en": "which",
+    "pos": [
+      "adverb",
+      "pronoun"
+    ],
+    "tags": [
+      "Language",
+      "Grammar"
+    ]
+  },
+  {
+    "es": "facebook",
+    "en": "Facebook",
+    "pos": [
+      "proper noun"
+    ],
+    "tags": [
+      "Technology",
+      "Social Media"
+    ]
+  },
+  {
+    "es": "leyes",
+    "en": "laws",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Politics",
+      "Society"
+    ]
+  },
+  {
+    "es": "principios",
+    "en": "principles",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Philosophy",
+      "Ethics"
+    ]
+  },
+  {
+    "es": "probablemente",
+    "en": "probably",
+    "pos": [
+      "adverb"
+    ],
+    "tags": [
+      "Language",
+      "Uncertainty"
+    ]
+  },
+  {
+    "es": "rápido",
+    "en": "fast",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "tags": [
+      "Description",
+      "Speed"
+    ]
+  },
+  {
+    "es": "solamente",
+    "en": "only",
+    "pos": [
+      "adverb"
+    ],
+    "tags": [
+      "Language",
+      "Restriction"
+    ]
+  },
+  {
+    "es": "área",
+    "en": "area",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Geography",
+      "Measurement"
+    ]
+  },
+  {
+    "es": "aires",
+    "en": "airs",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Music",
+      "Arts"
+    ]
+  },
+  {
+    "es": "banda",
+    "en": "band",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Music",
+      "Entertainment"
+    ]
+  },
+  {
+    "es": "ciudades",
+    "en": "cities",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Geography",
+      "Urbanization"
+    ]
+  },
+  {
+    "es": "clases",
+    "en": "classes",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Education",
+      "Society"
+    ]
+  },
+  {
+    "es": "colegio",
+    "en": "school",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Education",
+      "Institution"
+    ]
+  },
+  {
+    "es": "contenido",
+    "en": "content",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Media",
+      "Information"
+    ]
+  },
+  {
+    "es": "decisión",
+    "en": "decision",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Action",
+      "Thought"
+    ]
+  },
+  {
+    "es": "encuentro",
+    "en": "meeting",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Social",
+      "Event"
+    ]
+  },
+  {
+    "es": "entrada",
+    "en": "entrance",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Place",
+      "Movement"
+    ]
+  },
+  {
+    "es": "fiesta",
+    "en": "party",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Social",
+      "Celebration"
+    ]
+  },
+  {
+    "es": "francia",
+    "en": "France",
+    "pos": [
+      "proper noun"
+    ],
+    "tags": [
+      "Location",
+      "Country"
+    ]
+  },
+  {
+    "es": "francisco",
+    "en": "Francis",
+    "pos": [
+      "proper noun"
+    ],
+    "tags": [
+      "Name",
+      "Person"
+    ]
+  },
+  {
+    "es": "imposible",
+    "en": "impossible",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "State",
+      "Evaluation"
+    ]
+  },
+  {
+    "es": "medidas",
+    "en": "measures",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Action",
+      "Quantity"
+    ]
+  },
+  {
+    "es": "pagar",
+    "en": "to pay",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Economy"
+    ]
+  },
+  {
+    "es": "pedro",
+    "en": "Peter",
+    "pos": [
+      "proper noun"
+    ],
+    "tags": [
+      "Name",
+      "Person"
+    ]
+  },
+  {
+    "es": "permite",
+    "en": "allows",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Permission"
+    ]
+  },
+  {
+    "es": "pp",
+    "en": "payable",
+    "pos": [
+      "abbreviation"
+    ],
+    "tags": [
+      "Economy",
+      "Finance"
+    ]
+  },
+  {
+    "es": "pudo",
+    "en": "was able to",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Ability"
+    ]
+  },
+  {
+    "es": "televisión",
+    "en": "television",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Technology",
+      "Entertainment"
+    ]
+  },
+  {
+    "es": "unión",
+    "en": "union",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Social",
+      "Organization"
+    ]
+  },
+  {
+    "es": "vía",
+    "en": "way",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Place",
+      "Movement"
+    ]
+  },
+  {
+    "es": "abajo",
+    "en": "down",
+    "pos": [
+      "adverb",
+      "preposition"
+    ],
+    "tags": [
+      "Location",
+      "Direction"
+    ]
+  },
+  {
+    "es": "atrás",
+    "en": "back",
+    "pos": [
+      "adverb",
+      "preposition"
+    ],
+    "tags": [
+      "Location",
+      "Direction"
+    ]
+  },
+  {
+    "es": "capaz",
+    "en": "capable",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "State",
+      "Ability"
+    ]
+  },
+  {
+    "es": "club",
+    "en": "club",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Social",
+      "Organization"
+    ]
+  },
+  {
+    "es": "comentarios",
+    "en": "comments",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Communication",
+      "Feedback"
+    ]
+  },
+  {
+    "es": "darle",
+    "en": "to give",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Transaction"
+    ]
+  },
+  {
+    "es": "di",
+    "en": "I said",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Communication",
+      "Past"
+    ]
+  },
+  {
+    "es": "error",
+    "en": "error",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Problem",
+      "Technology"
+    ]
+  },
+  {
+    "es": "gusto",
+    "en": "pleasure",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Emotion",
+      "Enjoyment"
+    ]
+  },
+  {
+    "es": "hechos",
+    "en": "facts",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Information",
+      "Reality"
+    ]
+  },
+  {
+    "es": "mayores",
+    "en": "older",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Age",
+      "Comparison"
+    ]
+  },
+  {
+    "es": "normal",
+    "en": "normal",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "State",
+      "Condition"
+    ]
+  },
+  {
+    "es": "precios",
+    "en": "prices",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Economy",
+      "Finance"
+    ]
+  },
+  {
+    "es": "proyectos",
+    "en": "projects",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Plan",
+      "Action"
+    ]
+  },
+  {
+    "es": "redes",
+    "en": "networks",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Technology",
+      "Connection"
+    ]
+  },
+  {
+    "es": "sabemos",
+    "en": "we know",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Knowledge",
+      "Certainty"
+    ]
+  },
+  {
+    "es": "sexo",
+    "en": "sex",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Biology",
+      "Identity"
+    ]
+  },
+  {
+    "es": "siete",
+    "en": "seven",
+    "pos": [
+      "number"
+    ],
+    "tags": [
+      "Math",
+      "Quantity"
+    ]
+  },
+  {
+    "es": "siguientes",
+    "en": "following",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Sequence",
+      "Order"
+    ]
+  },
+  {
+    "es": "tambien",
+    "en": "also",
+    "pos": [
+      "adverb"
+    ],
+    "tags": [
+      "Addition",
+      "Inclusion"
+    ]
+  },
+  {
+    "es": "texto",
+    "en": "text",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Language",
+      "Communication"
+    ]
+  },
+  {
+    "es": "tiempos",
+    "en": "times",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Time",
+      "Period"
+    ]
+  },
+  {
+    "es": "análisis",
+    "en": "analysis",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Reasoning",
+      "Evaluation"
+    ]
+  },
+  {
+    "es": "apenas",
+    "en": "hardly",
+    "pos": [
+      "adverb"
+    ],
+    "tags": [
+      "Degree",
+      "Limitation"
+    ]
+  },
+  {
+    "es": "chica",
+    "en": "girl",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "People",
+      "Relationships"
+    ]
+  },
+  {
+    "es": "constitución",
+    "en": "constitution",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Politics",
+      "Law"
+    ]
+  },
+  {
+    "es": "contrario",
+    "en": "opposite",
+    "pos": [
+      "adjective",
+      "noun"
+    ],
+    "tags": [
+      "Concepts",
+      "Relationships"
+    ]
+  },
+  {
+    "es": "cuentas",
+    "en": "accounts",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Finance",
+      "Business"
+    ]
+  },
+  {
+    "es": "código",
+    "en": "code",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Technology",
+      "Law"
+    ]
+  },
+  {
+    "es": "dolor",
+    "en": "pain",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Health",
+      "Emotions"
+    ]
+  },
+  {
+    "es": "efecto",
+    "en": "effect",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Science",
+      "Action"
+    ]
+  },
+  {
+    "es": "habría",
+    "en": "would have",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Time",
+      "Condition"
+    ]
+  },
+  {
+    "es": "isla",
+    "en": "island",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Nature",
+      "Geography"
+    ]
+  },
+  {
+    "es": "izquierda",
+    "en": "left",
+    "pos": [
+      "adjective",
+      "noun"
+    ],
+    "tags": [
+      "Direction",
+      "Politics"
+    ]
+  },
+  {
+    "es": "mente",
+    "en": "mind",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Psychology",
+      "Cognition"
+    ]
+  },
+  {
+    "es": "odio",
+    "en": "hate",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "tags": [
+      "Emotions",
+      "Relationships"
+    ]
+  },
+  {
+    "es": "perú",
+    "en": "Peru",
+    "pos": [
+      "proper noun"
+    ],
+    "tags": [
+      "Geography",
+      "Culture"
+    ]
+  },
+  {
+    "es": "pienso",
+    "en": "I think",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Cognition",
+      "Expression"
+    ]
+  },
+  {
+    "es": "post",
+    "en": "post",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Communication",
+      "Technology"
+    ]
+  },
+  {
+    "es": "presencia",
+    "en": "presence",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Philosophy",
+      "Psychology"
+    ]
+  },
+  {
+    "es": "profesor",
+    "en": "professor",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Education",
+      "Career"
+    ]
+  },
+  {
+    "es": "quizás",
+    "en": "maybe",
+    "pos": [
+      "adverb"
+    ],
+    "tags": [
+      "Uncertainty",
+      "Expression"
+    ]
+  },
+  {
+    "es": "respeto",
+    "en": "respect",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Social Norms",
+      "Emotions"
+    ]
+  },
+  {
+    "es": "ropa",
+    "en": "clothing",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Fashion",
+      "Everyday Life"
+    ]
+  },
+  {
+    "es": "serán",
+    "en": "will be",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Future"
+    ]
+  },
+  {
+    "es": "siguen",
+    "en": "follow",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Sequence"
+    ]
+  },
+  {
+    "es": "sr",
+    "en": "Mr.",
+    "pos": [
+      "abbreviation"
+    ],
+    "tags": [
+      "Title",
+      "Respect"
+    ]
+  },
+  {
+    "es": "tenían",
+    "en": "had",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Past"
+    ]
+  },
+  {
+    "es": "totalmente",
+    "en": "completely",
+    "pos": [
+      "adverb"
+    ],
+    "tags": [
+      "Degree",
+      "Intensity"
+    ]
+  },
+  {
+    "es": "versión",
+    "en": "version",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Technology",
+      "Variation"
+    ]
+  },
+  {
+    "es": "aqui",
+    "en": "here",
+    "pos": [
+      "adverb"
+    ],
+    "tags": [
+      "Location",
+      "Presence"
+    ]
+  },
+  {
+    "es": "barcelona",
+    "en": "Barcelona",
+    "pos": [
+      "proper noun"
+    ],
+    "tags": [
+      "Location",
+      "City"
+    ]
+  },
+  {
+    "es": "chicos",
+    "en": "boys",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "People",
+      "Youth"
+    ]
+  },
+  {
+    "es": "cielo",
+    "en": "sky",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Nature",
+      "Atmosphere"
+    ]
+  },
+  {
+    "es": "cine",
+    "en": "cinema",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Entertainment",
+      "Film"
+    ]
+  },
+  {
+    "es": "cuestión",
+    "en": "question",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Inquiry",
+      "Doubt"
+    ]
+  },
+  {
+    "es": "debemos",
+    "en": "we must",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Obligation"
+    ]
+  },
+  {
+    "es": "escribir",
+    "en": "to write",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Creation"
+    ]
+  },
+  {
+    "es": "española",
+    "en": "Spanish",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Nationality",
+      "Language"
+    ]
+  },
+  {
+    "es": "formación",
+    "en": "training",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Education",
+      "Development"
+    ]
+  },
+  {
+    "es": "hice",
+    "en": "I did",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Past"
+    ]
+  },
+  {
+    "es": "ii",
+    "en": "II",
+    "pos": [
+      "roman numeral"
+    ],
+    "tags": [
+      "Number",
+      "Sequence"
+    ]
+  },
+  {
+    "es": "importancia",
+    "en": "importance",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Value",
+      "Significance"
+    ]
+  },
+  {
+    "es": "industria",
+    "en": "industry",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Economy",
+      "Production"
+    ]
+  },
+  {
+    "es": "instituto",
+    "en": "institute",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Education",
+      "Organization"
+    ]
+  },
+  {
+    "es": "loco",
+    "en": "crazy",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Emotion",
+      "Personality"
+    ]
+  },
+  {
+    "es": "origen",
+    "en": "origin",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "History",
+      "Nature"
+    ]
+  },
+  {
+    "es": "premio",
+    "en": "prize",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Reward",
+      "Competition"
+    ]
+  },
+  {
+    "es": "re",
+    "en": "king",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Royalty",
+      "History"
+    ]
+  },
+  {
+    "es": "rico",
+    "en": "rich",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Wealth",
+      "Economy"
+    ]
+  },
+  {
+    "es": "simple",
+    "en": "simple",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Character",
+      "Quality"
+    ]
+  },
+  {
+    "es": "unidad",
+    "en": "unit",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Math",
+      "Science"
+    ]
+  },
+  {
+    "es": "vino",
+    "en": "wine",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Food",
+      "Beverage"
+    ]
+  },
+  {
+    "es": "and",
+    "en": "and",
+    "pos": [
+      "conjunction"
+    ],
+    "tags": [
+      "Grammar",
+      "Language"
+    ]
+  },
+  {
+    "es": "cambios",
+    "en": "changes",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Action",
+      "Progress"
+    ]
+  },
+  {
+    "es": "canal",
+    "en": "channel",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Communication",
+      "Media"
+    ]
+  },
+  {
+    "es": "cultural",
+    "en": "cultural",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Society",
+      "Arts"
+    ]
+  },
+  {
+    "es": "dando",
+    "en": "giving",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Charity"
+    ]
+  },
+  {
+    "es": "dejó",
+    "en": "left",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Movement"
+    ]
+  },
+  {
+    "es": "derecha",
+    "en": "right",
+    "pos": [
+      "adjective",
+      "noun"
+    ],
+    "tags": [
+      "Politics",
+      "Direction"
+    ]
+  },
+  {
+    "es": "económica",
+    "en": "economic",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Economy",
+      "Finance"
+    ]
+  },
+  {
+    "es": "escrito",
+    "en": "written",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Communication",
+      "Literature"
+    ]
+  },
+  {
+    "es": "esperando",
+    "en": "waiting",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Patience"
+    ]
+  },
+  {
+    "es": "gustaría",
+    "en": "would like",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Politeness",
+      "Desire"
+    ]
+  },
+  {
+    "es": "interesante",
+    "en": "interesting",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Opinion",
+      "Description"
+    ]
+  },
+  {
+    "es": "jamás",
+    "en": "never",
+    "pos": [
+      "adverb"
+    ],
+    "tags": [
+      "Time",
+      "Negation"
+    ]
+  },
+  {
+    "es": "juicio",
+    "en": "judgment",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "tags": [
+      "Law",
+      "Assessment"
+    ]
+  },
+  {
+    "es": "miles",
+    "en": "thousands",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Quantity",
+      "Measurement"
+    ]
+  },
+  {
+    "es": "noticia",
+    "en": "news",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Media",
+      "Information"
+    ]
+  },
+  {
+    "es": "original",
+    "en": "original",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Description",
+      "Creativity"
+    ]
+  },
+  {
+    "es": "peso",
+    "en": "weight",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "tags": [
+      "Physics",
+      "Measurement"
+    ]
+  },
+  {
+    "es": "pobre",
+    "en": "poor",
+    "pos": [
+      "adjective"
+    ],
+    "tags": [
+      "Economy",
+      "Social Status"
+    ]
+  },
+  {
+    "es": "prensa",
+    "en": "press",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Media",
+      "Journalism"
+    ]
+  },
+  {
+    "es": "propiedad",
+    "en": "property",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Law",
+      "Economy"
+    ]
+  },
+  {
+    "es": "revolución",
+    "en": "revolution",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Politics",
+      "Change"
+    ]
+  },
+  {
+    "es": "victoria",
+    "en": "victory",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Competition",
+      "Success"
+    ]
+  },
+  {
+    "es": "votos",
+    "en": "votes",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Politics",
+      "Democracy"
+    ]
+  },
+  {
+    "es": "vuelve",
+    "en": "returns",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Movement"
+    ]
+  },
+  {
+    "es": "york",
+    "en": "New York",
+    "pos": [
+      "proper noun"
+    ],
+    "tags": [
+      "Geography",
+      "City"
+    ]
+  },
+  {
+    "es": "éste",
+    "en": "this",
+    "pos": [
+      "pronoun",
+      "determiner"
+    ],
+    "tags": [
+      "Reference",
+      "Demonstration"
+    ]
+  },
+  {
+    "es": "alma",
+    "en": "soul",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Philosophy",
+      "Spirituality"
+    ]
+  },
+  {
+    "es": "antonio",
+    "en": "Anthony",
+    "pos": [
+      "proper noun"
+    ],
+    "tags": [
+      "Name",
+      "Person"
+    ]
+  },
+  {
+    "es": "artículos",
+    "en": "articles",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Writing",
+      "Journalism"
+    ]
+  },
+  {
+    "es": "asunto",
+    "en": "matter",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Topic",
+      "Issue"
+    ]
+  },
+  {
+    "es": "buscando",
+    "en": "searching",
+    "pos": [
+      "verb",
+      "present participle"
+    ],
+    "tags": [
+      "Action",
+      "Technology"
+    ]
+  },
+  {
+    "es": "completamente",
+    "en": "completely",
+    "pos": [
+      "adverb"
+    ],
+    "tags": [
+      "Degree",
+      "Manner"
+    ]
+  },
+  {
+    "es": "conoce",
+    "en": "knows",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Cognition",
+      "Human"
+    ]
+  },
+  {
+    "es": "conocimiento",
+    "en": "knowledge",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Cognition",
+      "Education"
+    ]
+  },
+  {
+    "es": "estudiantes",
+    "en": "students",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Education",
+      "Human"
+    ]
+  },
+  {
+    "es": "hospital",
+    "en": "hospital",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Health",
+      "Institution"
+    ]
+  },
+  {
+    "es": "humano",
+    "en": "human",
+    "pos": [
+      "adjective",
+      "noun"
+    ],
+    "tags": [
+      "Human",
+      "Nature"
+    ]
+  },
+  {
+    "es": "imágenes",
+    "en": "images",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Art",
+      "Technology"
+    ]
+  },
+  {
+    "es": "marcha",
+    "en": "march",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "tags": [
+      "Action",
+      "Politics"
+    ]
+  },
+  {
+    "es": "pasando",
+    "en": "passing",
+    "pos": [
+      "verb",
+      "present participle"
+    ],
+    "tags": [
+      "Action",
+      "Time"
+    ]
+  },
+  {
+    "es": "pie",
+    "en": "foot",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Body",
+      "Anatomy"
+    ]
+  },
+  {
+    "es": "puedan",
+    "en": "can",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Ability",
+      "Modal"
+    ]
+  },
+  {
+    "es": "tecnología",
+    "en": "technology",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Technology",
+      "Innovation"
+    ]
+  },
+  {
+    "es": "tipos",
+    "en": "types",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Classification",
+      "Concept"
+    ]
+  },
+  {
+    "es": "trabajos",
+    "en": "jobs",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Employment",
+      "Economy"
+    ]
+  },
+  {
+    "es": "verano",
+    "en": "summer",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Season",
+      "Nature"
+    ]
+  },
+  {
+    "es": "aprender",
+    "en": "to learn",
+    "pos": [
+      "verb"
+    ],
+    "tags": [
+      "Cognition",
+      "Education"
+    ]
+  },
+  {
+    "es": "conjunto",
+    "en": "set",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Math",
+      "Concept"
+    ]
+  },
+  {
+    "es": "cuarto",
+    "en": "room",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Space",
+      "Architecture"
+    ]
+  },
+  {
+    "es": "curso",
+    "en": "course",
+    "pos": [
+      "noun"
+    ],
+    "tags": [
+      "Education",
+      "Academia"
+    ]
+  }
+]
