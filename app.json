@@ -1,5 +1,6 @@
 {
   "expo": {
+    "sdkVersion": "54.0.0",
     "name": "Spanish Flashcard",
     "slug": "flash-card",
     "version": "1.0.0",

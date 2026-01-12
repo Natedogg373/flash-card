@@ -44,34 +44,50 @@ export default function StudyScreen() {
       return;
     }
 
-    // Get all flashcards from selected piles
-    const allFlashcards = await getFlashcards();
-    let filtered = allFlashcards.filter(f => selectedPileIds.includes(f.pileId));
+    try {
+      // Get all flashcards from selected piles
+      const allFlashcards = await getFlashcards();
+      console.log(`Total flashcards: ${allFlashcards.length}`);
+      console.log(`Selected pile IDs: ${selectedPileIds.join(', ')}`);
+      
+      let filtered = allFlashcards.filter(f => selectedPileIds.includes(f.pileId));
+      console.log(`Flashcards in selected piles: ${filtered.length}`);
 
-    // Filter by mastery level
-    filtered = filtered.filter(f => {
-      const mastery = calculateMasteryLevel(f);
-      return selectedMasteryLevels.includes(mastery);
-    });
+      // Filter by mastery level
+      filtered = filtered.filter(f => {
+        const mastery = calculateMasteryLevel(f);
+        return selectedMasteryLevels.includes(mastery);
+      });
+      console.log(`Flashcards after mastery filter: ${filtered.length}`);
 
-    if (filtered.length === 0) {
-      Alert.alert('No Cards', 'No flashcards match your selected criteria');
-      return;
+      if (filtered.length === 0) {
+        Alert.alert('No Cards', 'No flashcards match your selected criteria');
+        return;
+      }
+
+      // Shuffle flashcards
+      const shuffled = [...filtered].sort(() => Math.random() - 0.5);
+      console.log(`Starting study session with ${shuffled.length} flashcards`);
+      
+      // Set initial direction
+      let initialDirection: 'en-to-es' | 'es-to-en' = 'en-to-es';
+      if (studyDirection === 'both') {
+        initialDirection = Math.random() > 0.5 ? 'en-to-es' : 'es-to-en';
+      } else {
+        initialDirection = studyDirection;
+      }
+      
+      // Update all state at once to ensure consistency
+      setStudyFlashcards(shuffled);
+      setCurrentCardIndex(0);
+      setCurrentDirection(initialDirection);
+      setIsStudying(true);
+      
+      console.log('Study session started, isStudying should be true');
+    } catch (error) {
+      console.error('Error starting study session:', error);
+      Alert.alert('Error', 'Failed to start study session');
     }
-
-    // Shuffle flashcards
-    const shuffled = [...filtered].sort(() => Math.random() - 0.5);
-    setStudyFlashcards(shuffled);
-    setCurrentCardIndex(0);
-    
-    // Set initial direction
-    if (studyDirection === 'both') {
-      setCurrentDirection(Math.random() > 0.5 ? 'en-to-es' : 'es-to-en');
-    } else {
-      setCurrentDirection(studyDirection);
-    }
-    
-    setIsStudying(true);
   };
 
   const handleSuccess = async () => {
@@ -176,22 +192,17 @@ export default function StudyScreen() {
           <TouchableOpacity
             style={styles.exitButton}
             onPress={() => {
-              Alert.alert(
-                'Exit Study Session?',
-                'Your progress will be saved.',
-                [
-                  { text: 'Cancel', style: 'cancel' },
-                  {
-                    text: 'Exit',
-                    onPress: () => {
-                      setIsStudying(false);
-                      setCurrentCardIndex(0);
-                      setStudyFlashcards([]);
-                    },
-                  },
-                ]
-              );
-            }}>
+              try {
+                setIsStudying(false);
+                setCurrentCardIndex(0);
+                setStudyFlashcards([]);
+              } catch (error) {
+                console.error('Error exiting study session:', error);
+                // Fallback: try to exit anyway
+                setIsStudying(false);
+              }
+            }}
+            activeOpacity={0.7}>
             <MaterialIcons name="close" size={24} color="#000" />
           </TouchableOpacity>
           <Text style={styles.progressText}>
